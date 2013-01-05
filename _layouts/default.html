@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="pt-BR">
+	<head>
+		<meta charset=utf-8 />
+		<title>{% if page.title %}{{ page.title }} ~ {% endif %}Movimento Seinfeld</title>
+		<meta name="description" content="Reprises alternativas da nossa série favorita">
+		<link rel="alternate" type="application/rss+xml" title="Movimento Seinfeld" href="http://feeds.feedburner.com/movimentoseinfeld"/>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="stylesheet" href="/assets/style.css">
+		
+		<meta property="og:title" content="{{ page.title }}" />
+		<meta property="og:type" content="article" />
+		<meta property="og:url" content="http://movimentoseinfeld.com.br{{ page.url }}" />		
+		{% if page.image %}<meta property="og:image" content="{{ page.image }}">{% else %}<meta property="og:image" content="https://s3-sa-east-1.amazonaws.com/movimentoseinfeld/seinfeld.jpg" />{% endif %}
+		<meta property="og:site_name" content="Movimento Seinfeld" />
+		<meta property="fb:app_id" content="230575027017873" />
+		{% if page.description %}<meta property="og:description" content="{{ page.description }}">{% else %}<meta property="og:description" content="Toda quinta-feira um texto sobre um episódio de Seinfeld, seguindo a ordem em que eles foram ao ar, de Chronicles ao Finale."/>{% endif %}
+		
+		<script src="http://use.typekit.com/sjx5aia.js"></script>
+		<script>try{Typekit.load();}catch(e){}</script>
+		
+		<script src="/assets/modernizr.js"></script>
+		<script>
+			var disqus_developer = 1;
+		</script>
+	</head>
+	
+	<body>
+		
+		<header>
+			<h1 class="site-title"><a href="/" title="Movimento Seinfeld: reprises alternativas da nossa série favorita">Movimento Seinfeld</a></h1>
+		</header>
+		
+		<section class="content">
+			{{ content }}		
+		</section>
+		
+		<footer>
+			<p class="about">
+				Toda quinta-feira um texto sobre um episódio de Seinfeld, seguindo a ordem em que eles foram ao ar, de <a href="http://movimentoseinfeld.com.br/the-seinfeld-chronicles.html">Chronicles</a> ao <strong>Finale</strong>.
+				<br/>Contato no <a href="https://www.facebook.com/movimentoseinfeld/" title="Movimento Seinfeld no Facebook" rel="me">Facebook</a> ou no <a href="mailto:hola@seufelipe.com.br" title="Manda no email">email</a>.
+			</p>
+			<a href="/" title="Movimento Seinfeld: reprises alternativas da nossa série favorita">Movimento Seinfeld</a> &mdash; <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/" title="Licença Creative Commons Atribuição-Uso não-comercial-Compartilhamento pela mesma licença 3.0 Unported">Alguns direitos reservados</a>.
+		</footer>
+		
+		<div id="fb-root"></div>
+		<script>(function(d, s, id) {
+		  var js, fjs = d.getElementsByTagName(s)[0];
+		  if (d.getElementById(id)) return;
+		  js = d.createElement(s); js.id = id;
+		  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=230575027017873";
+		  fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));</script>
+		
+		<script>
+			window._gaq = [['_setAccount','UA-1137716-8'],['_trackPageview'],['_trackPageLoadTime']];
+			Modernizr.load({
+			  load: ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js'
+			});
+		</script>		
+	</body>
+</html>

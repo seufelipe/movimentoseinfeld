@@ -1,0 +1,19 @@
+---
+layout: post
+title: The Pez dispenser
+number: 314
+author: Ulisses Mattos
+site: http://tolisses.com.br/
+---
+
+> Você acha que há pulgas no mercado das pulgas, não acha? / Não... / Sim, você acha! Você nunca esteve em um mercado das pulgas, e acha que eles têm pulgas lá. / Tá certo, eu acho que eles têm pulgas lá. E daí?
+
+Sempre gostei de Seinfeld por ser uma série com tiradas geniais. Mas esse episódio não é exatamente um exemplo da inteligência do programa. Ele é cheio de bobeiras. E ainda assim, um dos que mais me fizeram rir. Chego a ficar meio contrariado de achar graça de tantas besteiras justamente no mais brilhante sitcom de todos os tempos. Mas é mesmo como o cartunista e jornalista <a title="Arnaldo Branco" href="http://www.oesquema.com.br/mauhumor/">Arnaldo Branco</a> me falou: "*Esse é um clássico da piada boba elevada ao status de arte*". Disse tudo.
+
+Provavelmente, a grande cena de humor do episódio é quando, durante o recital de piano da nova namorada de George, nosso amigo Jerry coloca uma embalagem de Pez (ainda falarei sobre a guloseima) sobre a perna de Elaine, fazendo com que ela dispare a gargalhar e tenha que deixar o evento. Essa situação vai causar repercussões no relacionamento do atormentado George com a tal pianista, que fica revoltada com a grosseria, sem saber que veio de uma amiga do novo namorado. Outras situações vão surgindo, claro, e a imaturidade de Jerry parece contagiar todos os personagens durante o episódio e suas subtramas, com resultados hilários.
+
+E o que é o "Pez dispenser" do título? Quem viu o episódio deve ter reconhecido a velha embalagens de pastilhas, que vinha com uma cabeça de um personagem qualquer de desenho animado. Tinha no Brasil, se não estou delirando (corrijam-me se eu estiver errado). O Pez é tão popular nos Estados Unidos que alguns de seus "dispensers" chegam a ser vendidos por US$ 7 mil a colecionadores.
+
+O Pez é apenas um dos elementos da cultura americana explorados nesse episódio. Em um momento, Kramer fala nas palavras-cruzadas <a title="Jumble na Wikipedia" href="http://en.wikipedia.org/wiki/Jumble">Jumble</a>. Em outro, George e Jerry comentam sobre o <a title="Postum na Wikipedia" href="http://en.wikipedia.org/wiki/Postum">Postum</a>, uma bebida em pó sem cafeína usada para substituir café. Kramer entra para o <a title="O Clube do Urso polar na Wikipedia" href="http://en.wikipedia.org/wiki/Polar_bear_club">Polar Bear Club</a>, grupo que mergulha em águas geladas. E Elaine chama Jerry para uma "<a title="Sobre intervernções, na Wikipedia" href="http://en.wikipedia.org/wiki/Intervention_(counseling)">intervention</a>", que é quando amigos tentam convencer um usuário de drogas a confrontar seu vício (só fui saber dessa prática vendo Seinfeld). Isso sem contar a hora em que Jerry chama George de "Biff", como no <a title="The subway" href="http://movimentoseinfeld.com.br/episodios/the-subway.html">episódio anterior</a>, aludindo a uma personagem de <em>A morte do caixeiro viajante</em>, de Arthur Miller.
+
+À parte de todos os risos bobos e das variadas referências à cultura americana, há um momento típico de brilhantismo da série, com uma implacável análise de comportamento aplicada a uma situação cômica: George comunicando o rompimento da relação com a namorada, para se antecipar à moça e sair por cima. A alegria que o assalta quando ele surpreende a pianista é sensacional. Quase um êxtase infantil. Foi o jeito que teve para ter "a mão", o controle sobre o relacionamento. E o interessante é que toda a história com a pianista acaba, mais adiante, com uma piada um tanto quanto grosseira para os padrões seinfeldianos, relacionada a masturbação. Mas todos perdoam, porque veio bem embalada. E também, ora diabos, porque devemos dar a mão à palmatória e admitir que foi uma tirada bem eficaz. Como de costume.

@@ -1,0 +1,19 @@
+---
+layout: post
+title: The lip reader
+number: 506
+author: Marcos Donizetti
+site: http://donizetti.opsblog.org/
+---
+
+> Lembre-se disso: quando você controla o correio, você controla a informação!
+
+A TV da sala está ligada e daqui eu posso ouvir o som cadenciado da bola batendo na quadra. É o *U.S. Open*, e sempre que estou quase me esquecendo do repetitivo som, ele é interrompido por breves momentos de aplausos. Logo o juiz pede silêncio e  a monotonia continua. Lembro-me então de **The Lip Reader**. George e  Jerry estão lá, acompanhando uma dessas partidas, e Jerry percebe o  quanto algumas dessas fiscais de linha podem ser um verdadeiro atrativo, seja você um amante de tênis ou não. Jerry revolve que precisa conhecer  Laura, a linda e loira fiscal, e tenta puxar papo com ela no final da partida, sem sucesso. Raivoso, só descobre que ela é muda depois de  muito gritar. "Como assim você não está me ouvindo? Quem você pensa que é para não me dar atenção?".
+
+Seinfeld é maravilhoso justamente pelo que seus episódios conseguem  dizer sobre nós e sobre a vida, enquanto falam sobre "o nada". Pensando  nisso, posso dizer que **The Lip Reader** é um tratado sobre a  comunicação entre as pessoas, ou a falta dela, e todas as consequências  daí derivadas. O ponto de partida é absurdamente simples, mas um tanto  chocante para a maioria das pessoas: "não há comunicação real possível entre dois sujeitos falantes". Pois é. Um estudante qualquer de psicanálise diria mais, que toda tentativa de dizer algo e de se fazer entender está, no limite, fadada ao fracasso. Há um mal-entendido que é  sempre produto de qualquer tentativa de diálogo. Quando você fala, quanto tenta chegar ao outro através da palavra, você está na verdade transmitindo ao mundo o dizer de alguém que não é você. O eu falante é mais um ideal de eu do que a real manifestação de quem você é, e temos pouco controle sobre o que dizemos, nessas condições.
+
+Por que isso acontece? Em parte é uma maneira de nos defendermos do julgamento do próximo. Tentamos dar ao mundo uma imagem que,  acreditamos, representa aquilo que ele espera de nós, mas no fundo só chegamos realmente perto de nós mesmos quando estamos sozinhos, e isso não é agradável. A retirada de nossas máscaras deixa nuas as nossas vergonhas. Todos nós, se olhados bem de perto, somos tão ridículos  quanto o George com a cara cheia de sorvete, em rede nacional. E esse ridículo é insuportável para o outro também, afinal a namorada termina com ele assim que o vê metido em toda aquela luxúria de chocolate.
+
+Ora, se não podemos ter controle total sobre o que dizemos e  mostramos de nós, imagine sobre o que diz o outro? Nunca podemos saber, de maneira direta, o que determinada pessoa realmente sente ou pensa sobre a gente. A saída encontrada por George e Jerry foi fazer de Laura uma arma secreta de espionagem! A própria leitora de lábios, pronta para contar cada sórdido segredo sobre o que os outros pensam da gente. Não seria fantástico?
+
+Numa festa, Laura está pronta para ler os lábios da ex de George, e ele se sente um verdadeiro gênio por ter pensado nisso. Na cabeça careca e  redonda de nosso herói, com certeza havia uma fórmula para se aproveitar do dom da nova namorada de Jerry e sempre se dar bem, saindo vencedor nessa situação e em todos os relacionamentos futuros. Pena que George tenha aprendido da pior maneira a força do ponto de partida enunciado no começo deste texto. Se não há comunicação possível entre dois sujeitos  falantes, não surpreende que "seis" vire "sexo" e o golpe vá por água abaixo. Pelo menos toda essa confusão linguística não foi tão grave quanto o encontro entre Kramer e Monica Seles...

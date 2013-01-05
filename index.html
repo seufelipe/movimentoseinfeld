@@ -1,0 +1,40 @@
+---
+layout: default
+title : Reprises alternativas da nossa série favorita 
+---
+
+
+{% for post in site.posts limit:1 %}
+	<article class="hentry feature">
+		<a title="{{ post.title }}, por {{ post.author }}" href="{{ post.url }}" class="post-link">
+			<hgroup class="post-info">
+				<h4 class="post-number">{{ post.number }}</h4>
+				<h2 class="post-title">{{ post.title }}</h2>
+				<h3 class="post-author"><span class="post-author-prep">por</span> {{ post.author }}</h3>
+			</hgroup>
+		</a>
+	</article>
+{% endfor %}
+
+{% for post in site.posts offset:1 %}
+	<article class="hentry index">
+		<a title="{{ post.title }}, por {{ post.author }}" href="{{ post.url }}" class="post-link">
+			<hgroup class="post-info">
+				<h4 class="post-number">{{ post.number }}</h4>
+				<h2 class="post-title">{{ post.title }}</h2>
+				<h3 class="post-author"><span class="post-author-prep">por</span> {{ post.author }}</h3>
+			</hgroup>
+		</a>
+	</article>
+{% endfor %}
+
+<script>
+    var disqus_shortname = 'movimentoseinfeld';
+
+    (function () {
+        var s = document.createElement('script'); s.async = true;
+        s.type = 'text/javascript';
+        s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
+        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+    }());
+</script>

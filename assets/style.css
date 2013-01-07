@@ -1,3 +1,39 @@
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+nav,
+section {
+    display: block;
+}
+
+* {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+html {
+	background: #e7e7de url(bg.jpg);
+    overflow-y: scroll;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+}
+
+body {
+	background: transparent;
+	color: #303639;
+	font: 100%/1 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;
+    margin: 0 auto;
+    max-width: 38rem;
+    width: 90%;
+}
+
 ::-moz-selection{
 	background: #fe6;
 	color: #000;
@@ -10,51 +46,59 @@
 	text-shadow: none;
 }
 
-html {
-    font-size: 100%;
-    overflow-y: scroll;
-    -webkit-text-size-adjust: 100%;
-    -ms-text-size-adjust: 100%;
-}
-
-body {
-	background: #e7e7de url(bg.jpg);
-	color: #303639;
-	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+h1, 
+h2, 
+h3, 
+h4,
+h5,
+h6 {
     margin: 0;
+    font-weight: 700; 
+    word-wrap: break-word;
 }
 
-header,
-.content,
-footer {
-	margin: 0 auto;
-	width: 620px;
+/* Links */
+
+a, 
+a:visited { 
+    color: #111; 
+    text-decoration: none;
 }
 
-a {
-	text-decoration: none;
+a:hover, 
+a:focus, 
+a:active { 
+    border: 0; 
+    color: #111;
+    -webkit-transition: color .1s ease-out;
+    -moz-transition: color .1s ease-out;
+    -o-transition: color .1s ease-out;
+    transition: color .1s ease-out;
 }
-a:link {
-	color: #111;
-}
-a:visited {
-	color: #111;
-}
-a:hover,
+
 a:focus {
-	color: #111;
+	outline: thin dotted;
 }
-a:active {}
 
-header {
+a:hover,
+a:active {
+	outline: 0;
+}
+
+/* Header */
+
+.site-header {
+	padding: 48px 0;
+	padding: 3rem 0;
 	text-align: center;
 }
 
 .site-title {
 	font-size: 36px;
+	font-size: 2.25rem;
 	font-style: italic;
-	line-height: 1;
-	margin: 66px 0;
+	line-height: 1.33;
+	margin: 0;
 	text-transform: lowercase;
 }
 
@@ -62,10 +106,19 @@ header {
 	color: #DA382B;
 }
 
-footer {
-	font-size: 12px;
+/* Footer */
+
+.site-footer {
+	font-size: 14px;
+	font-size: .88rem;
+	line-height: 1.71;
+	padding: 48px 0;
+	padding: 3rem 0;
 	text-align: center;
-	padding: 36px;
+}
+
+.site-footer a {
+	border-bottom: 1px dotted #333;
 }
 
 .about {
@@ -76,11 +129,14 @@ footer {
 .hentry {
 	background: #fff;
 	background: rgba(255,255,255,.4);
-	-webkit-border-radius: 2px;
-   	-moz-border-radius: 2px;
    	border-radius: 2px;
-	margin: 36px 0;
+   	margin-bottom: 24px;
+   	margin-bottom: 1.5rem;
 	position: relative;
+}
+
+.hentry:last-child {
+	margin-bottom: 0;
 }
 
 .hentry.index:hover {
@@ -97,7 +153,8 @@ footer {
 
 .post-link {
 	display: block;
-	padding: 36px;
+	padding: 24px;
+	padding: 1.5rem;
 }
 
 .post-info {
@@ -106,9 +163,11 @@ footer {
 
 .post-number {
 	font-weight: normal;
-	letter-spacing: 1px;
+	letter-spacing: .06em;
+	line-height: 1.5;
 	margin: 0;
 }
+
 .post-number:before,
 .post-number:after {
 	content: "–"
@@ -117,13 +176,15 @@ footer {
 .post-title {
 	color: #252925;
 	font-size: 36px;
-	margin: 9px 0;
+	font-size: 2.25rem;
+	line-height: 1.33;
 }
 
 .post-author {
 	font-size: 16px;
+	font-size: 1rem;
 	font-weight: normal;
-	margin: 0;
+	line-height: 1.5;
 }
 
 .post-author a {
@@ -136,8 +197,6 @@ footer {
 
 .feature {
 	background: #fff;
-	-webkit-border-radius: 2px 0 2px 2px;
-   	-moz-border-radius: 2px 0 2px 2px;
    	border-radius: 2px 0 2px 2px;
 	overflow: hidden;
 }
@@ -150,32 +209,29 @@ footer {
 	border-width: 8px;
 	border-style: solid;
 	border-color: #e7e7de #e7e7de transparent transparent;
-	-webkit-border-bottom-left-radius: 2px;
-	-moz-border-radius: 0 0 0 2px;
 	border-radius: 0 0 0 2px;
 	background: #fff;
-	-webkit-box-shadow: 0 1px 1px rgba(0,0,0,0.3), -1px 1px 1px rgba(0,0,0,0.2);
-	-moz-box-shadow: 0 1px 1px rgba(0,0,0,0.3), -1px 1px 1px rgba(0,0,0,0.2);
 	box-shadow: 0 1px 1px rgba(0,0,0,0.3), -1px 1px 1px rgba(0,0,0,0.2);
-	display: block; width: 0; 
+	display: block;
+	width: 0; 
 }
+
+/* Single */
 
 .single .post-info {
 	margin-bottom: 48px;
+	margin-bottom: 3rem;
 }
 
 .single.hentry {
 	background: #fff;
-	-moz-box-shadow: 0 0 5px rgba(0,0,0,.3);
-	-webkit-box-shadow: 0 0 5px rgba(0,0,0,.3);
 	box-shadow: 0 0 5px rgba(0,0,0,.3);
-	padding: 36px;
+	padding: 24px;
+	padding: 1.5rem;
 }
 
 .post-content {
-	font-size: 16px;
-	line-height: 28px;
-	text-shadow: 1px 1px 1px rgba(255,255,255,.8);
+	line-height: 1.5;
 }
 
 .post-content p {
@@ -183,6 +239,6 @@ footer {
 }
 
 .post-content blockquote {
-	font-size: 18px;
 	font-style: italic;
+	margin: 0;
 }

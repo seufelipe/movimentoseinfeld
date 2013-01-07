@@ -3,6 +3,7 @@ layout: post
 title: The robbery
 number: 103
 image: http://movimentoseinfeld.com.br/images/episodes/seinfeld-the-robbery.jpg
+description: O apartamento do Jerry é assaltado depois que Kramer esquece de trancar a porta.
 author: Ulisses Mattos
 site: http://tolisses.com.br/
 ---

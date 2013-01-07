@@ -3,6 +3,7 @@ layout: post
 title: The stock tip
 number: 105
 image: http://movimentoseinfeld.com.br/images/episodes/seinfeld-the-stock-tip.jpg
+description: George consegue uma dica de ação e, depois de investir $5,000, passa a dica pro Jerry, que investe $2,500. O primeiro encontro de Jerry e Vanessa – a moça do segundo episódio – dá errado.
 author: Seu Felipe
 site: http://seufelipe.com.br/
 ---

@@ -2,6 +2,8 @@
 layout: post
 title: The pony remark
 number: 202
+image: http://movimentoseinfeld.com.br/images/episodes/seinfeld-pony-remark.jpg
+description: Um comentário de Jerry sobre pôneis pode ou não ter sido a causa da morte de uma tia dele.
 author: Anderson Gomes
 site: http://www.rosebudeotreno.com/
 ---

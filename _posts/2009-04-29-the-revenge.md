@@ -2,6 +2,8 @@
 layout: post
 title: The revenge
 number: 207
+image: http://movimentoseinfeld.com.br/images/episodes/seinfeld-the-revenge.jpg
+description: George se arrepende de ter pedido demissão e vai trabalhar no outro dia como se nada tivesse acontecido.
 author: Arnaldo Branco
 site: http://www.oesquema.com.br/mauhumor/
 ---

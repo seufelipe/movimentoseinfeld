@@ -2,8 +2,10 @@
 layout: post
 title: The ex-girlfriend
 number: 201
+image: http://movimentoseinfeld.com.br/images/episodes/seinfeld-the-ex-girlfriend.jpg
+description: Jerry começa a namorar uma ex-namorada do George.
 author: Daniel Lima
-site: http://generico.tumblr.com/
+site: http://generico.interbarney.com/
 ---
 
 > Sabe uma coisa ótima? Quando você lê 'Moby Dick' pela segunda vez, Ahab e a baleia se tornam grandes amigos.

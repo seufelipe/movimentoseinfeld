@@ -2,6 +2,8 @@
 layout: post
 title: The statue
 number: 206
+image: http://movimentoseinfeld.com.br/images/episodes/seinfeld-the-statue.jpg
+description: Jerry tem uma estátua muito parecida com uma que George quebrou quando era criança.
 author: Vinícius Perez
 site: http://confrariaonanista.wordpress.com/
 ---

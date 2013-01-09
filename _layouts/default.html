@@ -9,16 +9,16 @@
 		<link rel="alternate" type="application/rss+xml" title="Movimento Seinfeld" href="http://feeds.feedburner.com/movimentoseinfeld">
 		<link rel="stylesheet" href="/assets/style.css">
 		
-		<!-- Open Graphs -->
+		<!-- open graphZzZzZzZzZz -->
 		<meta property="og:title" content="{{ page.title }}" />
 		<meta property="og:type" content="article" />
 		<meta property="og:url" content="http://movimentoseinfeld.com.br{{ page.url }}" />		
-		{% if page.image %}<meta property="og:image" content="{{ page.image }}">{% else %}<meta property="og:image" content="https://s3-sa-east-1.amazonaws.com/movimentoseinfeld/seinfeld.jpg" />{% endif %}
+		{% if page.image %}<meta property="og:image" content="{{ page.image }}">{% else %}<meta property="og:image" content="http://movimentoseinfeld.com.br/images/seinfeld.jpg" />{% endif %}
 		<meta property="og:site_name" content="Movimento Seinfeld" />
 		<meta property="fb:app_id" content="230575027017873" />
 		{% if page.description %}<meta property="og:description" content="{{ page.description }}">{% else %}<meta property="og:description" content="Toda quinta-feira um texto sobre um episódio de Seinfeld, seguindo a ordem em que eles foram ao ar, de Chronicles ao Finale."/>{% endif %}
 		
-		<!-- Custom fonts from Typekit -->
+		<!-- custom fonts from typekit -->
 		<script src="http://use.typekit.com/sjx5aia.js"></script>
 		<script>try{Typekit.load();}catch(e){}</script>
 		
@@ -46,21 +46,13 @@
 			<a href="/" title="Movimento Seinfeld: reprises alternativas da nossa série favorita">Movimento Seinfeld</a> &mdash; <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/" title="Licença Creative Commons Atribuição-Uso não-comercial-Compartilhamento pela mesma licença 3.0 Unported">Alguns direitos reservados</a>.
 		</footer><!-- /site-footer -->
 		
-		<div id="fb-root"></div>
-		<script>(function(d, s, id) {
-		  var js, fjs = d.getElementsByTagName(s)[0];
-		  if (d.getElementById(id)) return;
-		  js = d.createElement(s); js.id = id;
-		  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=230575027017873";
-		  fjs.parentNode.insertBefore(js, fjs);
-		}(document, 'script', 'facebook-jssdk'));</script>
-		
-		<!-- Google Analytics -->
+		<!-- google analytics -->
 		<script>
             var _gaq=[['_setAccount','UA-1137716-8'],['_trackPageview']];
             (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
             g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
             s.parentNode.insertBefore(g,s)}(document,'script'));
-        </script>		
+        </script>
+        
 	</body>
 </html>

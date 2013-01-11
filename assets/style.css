@@ -18,7 +18,7 @@ section {
 }
 
 html {
-	background: #e7e7de url(bg.jpg);
+	background: #ededed;
     overflow-y: scroll;
     -webkit-text-size-adjust: 100%;
     -ms-text-size-adjust: 100%;
@@ -27,7 +27,7 @@ html {
 
 body {
 	background: transparent;
-	color: #303639;
+	color: #555;
 	font: 100%/1 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;
     margin: 0 auto;
     max-width: 38rem;
@@ -129,6 +129,7 @@ a:active {
 .hentry {
 	background: #fff;
 	background: rgba(255,255,255,.4);
+	border: 1px solid #d4d4d4;
    	border-radius: 2px;
    	margin-bottom: 24px;
    	margin-bottom: 1.5rem;
@@ -147,10 +148,6 @@ a:active {
 	transition: all .1s linear;
 }
 
-.hentry:last-child {
-	margin: 0;
-}
-
 .post-link {
 	display: block;
 	padding: 24px;
@@ -162,6 +159,7 @@ a:active {
 }
 
 .post-number {
+	color: #999;
 	font-weight: normal;
 	letter-spacing: .06em;
 	line-height: 1.5;
@@ -174,13 +172,14 @@ a:active {
 }
 
 .post-title {
-	color: #252925;
+	color: #555555;
 	font-size: 36px;
 	font-size: 2.25rem;
 	line-height: 1.33;
 }
 
 .post-author {
+	color: #999;
 	font-size: 16px;
 	font-size: 1rem;
 	font-weight: normal;
@@ -188,7 +187,12 @@ a:active {
 }
 
 .post-author a {
-	border-bottom: 1px dotted #111;
+	color: #999;
+	border-bottom: 1px dotted #666;
+}
+
+.post-author a:hover {
+	color: #2b2b2b;
 }
 
 .post-author-prep {
@@ -197,23 +201,10 @@ a:active {
 
 .feature {
 	background: #fff;
-   	border-radius: 2px 0 2px 2px;
-	overflow: hidden;
 }
 
-.feature:before {
-	content: "";
-	position: absolute;
-	top: 0;
-	right: 0;
-	border-width: 8px;
-	border-style: solid;
-	border-color: #e7e7de #e7e7de transparent transparent;
-	border-radius: 0 0 0 2px;
-	background: #fff;
-	box-shadow: 0 1px 1px rgba(0,0,0,0.3), -1px 1px 1px rgba(0,0,0,0.2);
-	display: block;
-	width: 0; 
+.feature .post-title {
+	color: #2b2b2b;
 }
 
 /* Single */
@@ -225,7 +216,6 @@ a:active {
 
 .single.hentry {
 	background: #fff;
-	box-shadow: 0 0 5px rgba(0,0,0,.3);
 	padding: 24px;
 	padding: 1.5rem;
 }

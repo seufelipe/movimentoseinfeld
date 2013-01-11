@@ -1,0 +1,17 @@
+---
+layout: post
+title: The Big Salad
+number: 602
+image: http://movimentoseinfeld.com.br/images/episodes/seinfeld-the-big-salad.jpg
+description: Jerry descobre que está namorando uma moça que já foi dispensada pelo Newman. Kramer participa de uma perseguição igual a de OJ Simpson. George paga um almoço pra Elaine mas é a namorada dele quem recebe o agradecimento. 
+author: Felipe Santoro
+site: http://felipesantoro.wordpress.com
+---
+
+> Ei! Regras são regras, e vamos encarar, sem regras… reina o caos.
+
+De longe um dos meus episódios favoritos, um resumo da ópera *seinfeldiana*, cheia de regras e ao mesmo tempo caos. Na epopéia nova-iorquina, nenhum dos personagens atinge seus objetivos através de superação pessoal, transformação de caráter. Tudo acontece através de uma sucessão de coincidências, erratas e consequências desproporcionais ao tamanho das ações. Ninguém conquista metas, e se conquista, é apenas para descobrir que na verdade, não se queria chegar ali.
+
+A ideia do episódio nasce a partir de uma cena da vida real. Ao ver que a editora do programa não ia poder descer para almoçar, Larry David pede a assistente que leve uma salada grande para ela e depois fica ofendido pela assistente ter recebido os agradecimentos em seu lugar. É de mesquinharias assim que o mundo precisa. Elas me alimentam. Das quatro tramas do episódio (uma para cada personagem principal da série), de longe a que mais gosto é a do Jerry, porque elas falam demais comigo. Primeiro, discutindo com Elaine, Jerry decide jamais sair de casa em um encontro porque pessoas vão saber. Não basta as minhas tentativas ridículas de convencer essa garota de que eu posso ser um cara interessante e o nervosismo pujante de quem não tem a menor ideia de onde é um bom lugar para se colocar as mãos em uma mulher, eu ainda tenho que fazer isso em frente a uma platéia. Mas aí ao convencer a namoradinha da vez de ficar em casa, Newman aparece no apartamento e aí ALL HELL BREAKS LOOSE. Você já se pegou sentado no chuveiro pensando sobre isso? Eu já. É além da minha compreensão. Eu não entendo. Em que universo paralelo, momento no espaço-tempo, em que ponto da trajetória da curva da sua existência, é considerado maneiro dentro da sua cabeça sair com o pintoso do Vanguart? Digo, Newman. E não só isso, mas saber que tudo terminou não por vontade da garota, mas porque o Newman quis terminar. Você que tá lendo, ei você, você. Você conhece o sentimento? Vou torcer com carinho que a resposta seja não. Mas fica o brilhantismo do dilema até a inevitável derrocada do relacionamento.
+
+Acho a tortura do Jerry tão linda que quase esqueço que ainda existem três outras tramas, tão belas quanto: George e a salada grande; Elaine e o cara da papelaria; e Kramer e o amigo assassino. George com a supracitada ofensa sobre não ganhar os devidos agradecimentos, que em última instância acabam por destruir o relacionamento dele (*But you just had to have THE BIG SALAD!*) Elaine que acaba aceitando sair com o cara da papelaria porque encomendou uma caneta que ela não precisava. E Kramer, que com peso na consciência por achar que irritou um amigo ao ponto dele matar o cara da lavanderia, levar ele para ver os seus peixes numa paródia da perseguição de carro do OJ Simpson. Está escrita a ópera. Viva o caos. Viva Seinfeld.

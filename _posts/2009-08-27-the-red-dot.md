@@ -3,6 +3,7 @@ layout: post
 title: The red dot
 number: 312
 author: renata
+image: http://movimentoseinfeld.com.br/images/episodes/seinfeld-the-red-dot.jpg
 ---
 
 > Você quer uma visão geral? Vejo um homem mesquinho segurando um casaco e tentando se dar bem.

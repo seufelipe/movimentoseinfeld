@@ -3,6 +3,7 @@ layout: post
 title: The stranded
 number: 310
 author: haroldomourao
+image: http://movimentoseinfeld.com.br/images/episodes/seinfeld-the-stranded.jpg
 ---
 
 > Hey! Eu já comi sapos! Ninguém é perfeito!

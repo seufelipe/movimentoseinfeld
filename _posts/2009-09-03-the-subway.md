@@ -3,6 +3,7 @@ layout: post
 title: The subway
 number: 313
 author: felipe
+image: http://movimentoseinfeld.com.br/images/episodes/seinfeld-the-subway.jpg
 ---
 
 > As grandes empresas do mercado de ações mataram meu pai.

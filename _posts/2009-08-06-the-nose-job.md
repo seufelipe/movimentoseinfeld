@@ -3,6 +3,7 @@ layout: post
 title: The nose job
 number: 309
 author: ulisses
+image: http://movimentoseinfeld.com.br/images/episodes/seinfeld-the-nose-job.jpg
 ---
 
 > Nunca tive tanta repulsa por alguém mentalmente e tanta atração física ao mesmo tempo. É como se meu cérebro estivesse enfrentando meu pênis em um jogo de xadrex. E estou deixando o pênis vencer.

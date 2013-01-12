@@ -3,6 +3,7 @@ layout: post
 title: The Pez dispenser
 number: 314
 author: ulisses
+image: http://movimentoseinfeld.com.br/images/episodes/seinfeld-the-pez-dispenser.jpg
 ---
 
 > Você acha que há pulgas no mercado das pulgas, não acha? / Não... / Sim, você acha! Você nunca esteve em um mercado das pulgas, e acha que eles têm pulgas lá. / Tá certo, eu acho que eles têm pulgas lá. E daí?

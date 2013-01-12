@@ -4,8 +4,7 @@ title: The apartment
 number: 205
 image: http://movimentoseinfeld.com.br/images/episodes/seinfeld-the-apartment.jpg
 description: Elaine quer se mudar pro prédio do Jerry e George começa a usar uma aliança na intenção de conseguir mulheres.
-author: Gabriel Von Doscht
-site: http://vondoscht.com/
+author: moskito
 ---
 
 > Um pouco mais de respeito... Pois eu sou Costanza, o Senhor dos Idiotas.

@@ -2,8 +2,7 @@
 layout: post
 title: The puffy shirt
 number: 502
-author: Gustavo Guimarães
-site: http://twitter.com/gusguimaraes
+author: gustavoguimaraes
 ---
 
 > Mas eu não quero ser um pirata!

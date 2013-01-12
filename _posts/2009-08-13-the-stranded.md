@@ -2,8 +2,7 @@
 layout: post
 title: The stranded
 number: 310
-author: Haroldo Mourão
-site: http://outrasconsideracoes.blogspot.com/
+author: haroldomourao
 ---
 
 > Hey! Eu já comi sapos! Ninguém é perfeito!

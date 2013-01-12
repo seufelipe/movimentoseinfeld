@@ -2,7 +2,7 @@
 layout: post
 title: The handicap spot
 number: 422
-author: Renata Palladino
+author: renata
 ---
 
 > Deficientes não querem vagas especiais, eles querem ser tratados como nós. Por isso as vagas estão sempre vazias.

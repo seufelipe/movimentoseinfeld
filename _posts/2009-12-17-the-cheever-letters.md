@@ -2,7 +2,7 @@
 layout: post
 title: The Cheever letters
 number: 408
-author: Edson Morais
+author: edsonmorais
 ---
 
 > A calcinha que sua mãe escolheu para você!

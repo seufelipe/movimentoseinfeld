@@ -2,8 +2,7 @@
 layout: post
 title: The parking garage
 number: 306
-author: Rodolfo Castrezana
-site: http://omedi.net/
+author: castrezana
 ---
 
 > Estou dizendo, sou assim desde meus 11 anos. Estive em hospitais toda a aminha vida, não tenho controle sobre isso. Médicos me disseram que quando eu tivesse vontade a melhor coisa a fazer era liberar, senão... Eu poderia morrer. Você está ouvindo o que estou dizendo? Se eu não fizesse poderia morrer. Morrer! Vale a pena morrer por isso?

@@ -2,8 +2,7 @@
 layout: post
 title: The glasses
 number: 503
-author: Roberto Almeida
-site: http://twitter.com/foradeorbita2
+author: robertoalmeida
 ---
 
 > Ele não sabe diferenciar uma maçã de uma cebola e ele é sua testemunha ocular?

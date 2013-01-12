@@ -4,8 +4,7 @@ title: The phone message
 number: 204
 image: http://movimentoseinfeld.com.br/images/episodes/seinfeld-the-phone-message.jpg
 description: George deixa várias mensagens mal educadas na secretária eletrônica da namorada e depois se arrepende e decide roubar a fita.
-author: Chico Barney
-site: http://twitter.com/chicobarney
+author: chicobarney
 ---
 
 Imagino o estranhamento que esse episódio deve criar na cabeça dos fãs mais jovens de Seinfeld. Exibido pela primeira vez no longínquo fevereiro de 1991, **The Phone Message** versa sobre os problemas, na época modernos, de se comunicar com uma secretária eletrônica. Daquelas com direito a fita cassete e tudo, do tempo do onça.

@@ -2,8 +2,7 @@
 layout: post
 title: The outing
 number: 417
-author: Roberto Almeida
-site: http://twitter.com/foradeorbita2
+author: robertoalmeida
 ---
 
 > Eu assumi, e eu nem sou gay! / Agora todos vão achar que **nós** somos gays! / Não que tenha algo de errado quanto a isso…

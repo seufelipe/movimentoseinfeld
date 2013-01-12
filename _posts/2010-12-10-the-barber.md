@@ -2,8 +2,7 @@
 layout: post
 title: The barber
 number: 508
-author: Erik Gustavo
-site: http://erikgustavo.com/
+author: erik
 ---
 
 > Gostaria de ter mãos de calçadeira.

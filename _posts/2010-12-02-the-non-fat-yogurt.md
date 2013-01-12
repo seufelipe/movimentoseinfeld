@@ -2,8 +2,7 @@
 layout: post
 title: The non-fat yogurt
 number: 507
-author: Leo Carbonell
-site: http://www.linkedin.com/in/leocarbonell
+author: carbonell
 ---
 
 > Como pode isso não ter gordura? É muito bom!

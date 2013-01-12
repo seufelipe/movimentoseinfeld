@@ -2,8 +2,7 @@
 layout: post
 title: The maseuse
 number: 509
-author: Pedro Adams
-site: http://twitter.com/pedroadams
+author: pedroadams
 ---
 
 > Quem você quer enganar? Vem ao meu apartamento com sua mesa e seus óleos e eu não devo esperar nada? Você é uma massagista sacana!

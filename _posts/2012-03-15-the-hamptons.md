@@ -4,8 +4,7 @@ title: The Hamptons
 number: 521
 image: https://s3-sa-east-1.amazonaws.com/movimentoseinfeld/seinfeld-the-hamptons.jpg
 description: Jerry, George, Elaine e Kramer viajam para conhecer o bebê recém-nascido de uma amiga.
-author: Gabriel Mitsu
-site: http://mitsudiz.interbarney.com/
+author: mitsu
 ---
 
 > "O trem estava tão lotado que eu tive que me sentar de costas" / "Ah, eu gosto disso, é como voltar no tempo."

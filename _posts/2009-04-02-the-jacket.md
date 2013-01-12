@@ -4,8 +4,7 @@ title: The jacket
 number: 203
 image: http://movimentoseinfeld.com.br/images/episodes/seinfeld-the-jacket.jpg
 description: Jerry usa uma jaqueta nova e muito cara em um jantar com o pai da Elaine.
-author: Ulisses Mattos
-site: http://tolisses.com.br/
+author: ulisses
 ---
 
 > Ah, a carona. É como a sedução do canto da sereia. Nunca é o que parece ser. Ainda assim, quem de nós consegue resistir a ela?

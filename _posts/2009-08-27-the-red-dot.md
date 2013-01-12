@@ -2,7 +2,7 @@
 layout: post
 title: The red dot
 number: 312
-author: Renata Palladino
+author: renata
 ---
 
 > Você quer uma visão geral? Vejo um homem mesquinho segurando um casaco e tentando se dar bem.

@@ -2,8 +2,7 @@
 layout: post
 title: The nose job
 number: 309
-author: Ulisses Mattos
-site: http://tolisses.com.br/
+author: ulisses
 ---
 
 > Nunca tive tanta repulsa por alguém mentalmente e tanta atração física ao mesmo tempo. É como se meu cérebro estivesse enfrentando meu pênis em um jogo de xadrex. E estou deixando o pênis vencer.

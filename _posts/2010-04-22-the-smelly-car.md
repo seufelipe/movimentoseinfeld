@@ -2,7 +2,7 @@
 layout: post
 title: The smelly car
 number: 421
-author: Marianna Gomes
+author: mariannagomes
 ---
 
 > Você está louco? Não tá entendo o que estou dizendo? Isso não é só um cheiro, você precisa de um padre pra se livrar dessa coisa!

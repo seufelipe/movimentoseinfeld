@@ -4,8 +4,7 @@ title: The heart attack
 number: 208
 image: http://movimentoseinfeld.com.br/images/episodes/seinfeld-the-heart-attack.jpg
 description: George acha que sofre do coração mas na verdade só precisa operar as amígdalas.
-author: Ronald Rios
-site: http://ronaldrios.com.br/
+author: ronald
 ---
 
 > Você não é médico, mas você interpreta um na vida real

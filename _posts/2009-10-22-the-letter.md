@@ -2,8 +2,7 @@
 layout: post
 title: The letter
 number: 321
-author: Sergio Maggi
-site: http://oglobo.globo.com/cultura/kogut/series/
+author: sergiomaggi
 ---
 
 > Eu não entendo arte. / Não tem o que entender. / Não, sempre alguém tem que explicar pra mim, e aí eu preciso de alguém pra explicar a explicação.

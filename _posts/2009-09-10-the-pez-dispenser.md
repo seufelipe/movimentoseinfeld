@@ -2,8 +2,7 @@
 layout: post
 title: The Pez dispenser
 number: 314
-author: Ulisses Mattos
-site: http://tolisses.com.br/
+author: ulisses
 ---
 
 > Você acha que há pulgas no mercado das pulgas, não acha? / Não... / Sim, você acha! Você nunca esteve em um mercado das pulgas, e acha que eles têm pulgas lá. / Tá certo, eu acho que eles têm pulgas lá. E daí?

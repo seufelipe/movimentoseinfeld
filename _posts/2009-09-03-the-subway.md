@@ -2,8 +2,7 @@
 layout: post
 title: The subway
 number: 313
-author: Seu Felipe
-site: http://seufelipe.com.br/
+author: felipe
 ---
 
 > As grandes empresas do mercado de ações mataram meu pai.

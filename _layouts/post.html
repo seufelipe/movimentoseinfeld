@@ -2,19 +2,23 @@
 layout: default
 ---
 
+{% assign author = site.authors[page.author] %}
 <article class="hentry single">
 
-	<hgroup class="post-info">
-		<h4 class="post-number">{{ page.number }}</h4>
-		<h2 class="post-title">{{ page.title }}</h2>
-		<h3 class="post-author"><span class="post-author-prep">por</span>
-		{% if page.site %}
-			<a href="{{ page.site }}" title="Ver site de {{ page.author }}">{{ page.author }}</a>
-		{% else %}
-			{{ page.author }}
-		{% endif %}
-		</h3>
-	</hgroup>
+	<header class="post-info">
+		<p class="post-number">{{ page.number }}</p>
+		<h2 class="post-title"><a href="{{ page.url }}" title="Compartilhar {{ page.title }}">{{ page.title }}</a></h2>
+		{% if author %}
+		<div class="byline vcard">
+			<i>por</i> 
+			{% if author.web %}
+				<a href="{{ author.web }}" title="Ver site de {{ author.display_name }}" class="url fn">{{ author.display_name }}</a>
+			{% else %}
+				<span class="fn">{{ author.display_name }}</span>
+			{% endif %}
+      	</div>
+      	{% endif %}
+	</header>
 	
 	<div class="post-content">
 		{{ content }}

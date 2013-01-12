@@ -2,8 +2,7 @@
 layout: post
 title: The conversion
 number: 511
-author: Gus Lanzetta
-site: http://guslanzetta.com/
+author: guslanzetta
 ---
 
 > Jerry, estou dizendo, eu tenho esse poder. E eu não tenho controle sobre ele.

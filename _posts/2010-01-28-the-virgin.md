@@ -2,8 +2,7 @@
 layout: post
 title: The virgin
 number: 410
-author: Seu Felipe
-site: http://seufelipe.com.br/
+author: felipe
 ---
 
 > Sempre que eu acho que eu estou fora, eles me puxam pra dentro novamente!

@@ -4,8 +4,7 @@ title: The Seinfeld chronicles
 number: 101
 image: http://movimentoseinfeld.com.br/images/episodes/the-seinfeld-chronicles.jpg
 description: O primeiro episódio. Jerry conhece uma moça durante uma viagem.
-author: Seu Felipe
-site: http://seufelipe.com.br/
+author: felipe
 ---
 
 Eu queria saber como eu teria visto o primeiro episódio de Seinfeld no dia em que ele foi lançado, lá em 1989. Eu teria gostado? Ou melhor: eu teria gostado do mesmo jeito que eu gostei quando eu vi pela primeira vez, já depois que a série tinha terminado? Eu sei que muita gente na época não gostou. Quer dizer, hoje a gente acha muito legal ver dois caras discutindo sobre "lacunas da sociedade" na televisão, mas será que isso não é só porque Seinfeld nos fez gostar? O que eu sei é que Seinfeld me influenciou muito. Me fez começar a olhar as coisas que a maioria – quem não acompanha a série, talvez – nunca olha.

@@ -2,8 +2,7 @@
 layout: post
 title: The boyfriend
 number: 317/318
-author: Daniel Sansão
-site: http://www.danielsansao.com.br/
+author: danielsansao
 ---
 
 > Quanto você tem trinta anos é muito difícil fazer novas amizades. Qualquer que seja o grupo de amigos que você tem ele vai continuar o mesmo. Você não está entrevistando, não está procurando pessoas novas, não está interessado em ver currículos. Eles não conhecem os lugares, não sabem as comidas, não sabem as atividades... Se eu conheço um cara na academia ou qualquer outro lugar eu digo: tenho certeza que você é uma boa pessoa e aparenta ter muito potencial, mas não estamos contratando no momento.

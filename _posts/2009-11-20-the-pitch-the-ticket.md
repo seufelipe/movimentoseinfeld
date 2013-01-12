@@ -2,8 +2,7 @@
 layout: post
 title: The pitch &amp; The ticket
 number: 403/404
-author: Seu Felipe
-site: http://seufelipe.com.br/
+author: felipe
 ---
 
 > O que passou pela sua cabeça? Integridade artística? De onde você tirou isso? Você não é artista e não tem integridade.

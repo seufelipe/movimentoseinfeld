@@ -4,8 +4,7 @@ title: The Chaperone
 number: 601
 image: https://s3-sa-east-1.amazonaws.com/movimentoseinfeld/seinfeld-the-chaperone.jpg
 description: Jerry consegue um encontro com uma candidata a Miss Estados Unidos e Elaine começa a trabalhar para o Sr. Pitt.
-author: Seu Felipe
-site: http://seufelipe.com.br/
+author: felipe
 ---
 
 > Eles deveriam estar usando algodão.

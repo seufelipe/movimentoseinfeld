@@ -177,7 +177,7 @@ a:active {
 	line-height: 1.33;
 }
 
-.post-author {
+.byline {
 	color: #999;
 	font-size: 16px;
 	font-size: 1rem;
@@ -185,17 +185,13 @@ a:active {
 	line-height: 1.5;
 }
 
-.post-author a {
+.byline a {
 	color: #999;
 	border-bottom: 1px dotted #666;
 }
 
-.post-author a:hover {
+.byline a:hover {
 	color: #2b2b2b;
-}
-
-.post-author-prep {
-	font-style: italic;
 }
 
 .feature {

@@ -2,8 +2,7 @@
 layout: post
 title: The parking space
 number: 322
-author: Daniel Pilon
-site: http://www.pilog.kit.net/
+author: danielpilon
 ---
 
 > Você não entende. Um estacionamento, eu nem passo perto. É como uma prostituta. Por que eu tenho que pagar se, eu me esforçar um pouco, posso conseguir de graça?

@@ -2,8 +2,7 @@
 layout: post
 title: The good samaritan
 number: 320
-author: Arnaldo Branco
-site: http://www.oesquema.com.br/mauhumor/
+author: arnaldo
 ---
 
 > Um caso, oh meu deus, isso é tão adulto!

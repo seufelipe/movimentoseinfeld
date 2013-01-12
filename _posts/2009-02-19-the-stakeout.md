@@ -4,8 +4,7 @@ title: The stakeout
 number: 102
 image: http://movimentoseinfeld.com.br/images/episodes/seinfeld-the-stakeout.jpg
 description: Jerry arma uma tocaia pra encontrar uma moça que ele conheceu em uma festa. 
-author: Ronald Rios
-site: http://ronaldrios.com.br/
+author: ronald
 ---
 
 > Sagman, Bennet, Robbins, Oppenheim e Taft. Sagman, Bennet, Robbins, Oppenheim e Taft...

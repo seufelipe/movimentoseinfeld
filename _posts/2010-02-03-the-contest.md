@@ -2,7 +2,7 @@
 layout: post
 title: The contest
 number: 411
-author: Henrique Capanema
+author: henriquecapanema
 ---
 
 > Você é mestre do seu domínio?

@@ -4,8 +4,7 @@ title: The busboy
 number: 212
 image: http://movimentoseinfeld.com.br/images/episodes/seinfeld-the-busboy.jpg
 description: George tenta se desculpar com um garçom demitido depois de um de seus comentários mas acaba piorando as coisas.
-author: Gustavo de Almeida
-site: http://www.interney.net/blogs/eclipse/
+author: gustavodealmeida
 ---
 
 > Se eu não colocar esse cara num avião pra Seattle e pra fora da minha vida, eu vou matá-lo, e todos que tentarem me impedir.

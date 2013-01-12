@@ -2,8 +2,7 @@
 layout: post
 title: The junior mint
 number: 420
-author: Leo Carbonell
-site: http://www.linkedin.com/in/leocarbonell
+author: carbonell
 ---
 
 > Por que eu compro bananas? Elas só duram um dia...

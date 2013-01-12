@@ -2,8 +2,7 @@
 layout: post
 title: The bubble boy
 number: 407
-author: Iberê
-site: http://twitter.com/ibere
+author: ibere
 ---
 
 > Um juicer é uma das melhores maneiras... ele faz suco, extrai a polpa e também as vitaminas, para uma vida longa e cheia de vitalidade.

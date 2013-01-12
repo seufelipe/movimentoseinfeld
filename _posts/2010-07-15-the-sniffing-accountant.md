@@ -2,8 +2,7 @@
 layout: post
 title: The sniffing accountant
 number: 504
-author: Seu Felipe
-site: http://seufelipe.com.br/
+author: felipe
 ---
 
 > Ele falava muita gíria? Ele usou o termo "cara"?

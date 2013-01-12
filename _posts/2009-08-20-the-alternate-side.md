@@ -2,8 +2,7 @@
 layout: post
 title: The alternate side
 number: 311
-author: Cintia Loureiro
-site: http://www.cintialoureiro.com.br/
+author: cintia
 ---
 
 > These pretzels are making me thirsty!

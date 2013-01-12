@@ -2,8 +2,7 @@
 layout: post
 title: The Marine Biologist
 number: 514
-author: Daniel Lima
-site: http://twitter.com/dlima
+author: daniel
 ---
 
 > O mar estava revoltoso aquele dia, amigos – como um velho tentando devolver uma sopa na deli.

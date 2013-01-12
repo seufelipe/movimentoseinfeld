@@ -2,8 +2,7 @@
 layout: post
 title: The cigar store indian
 number: 510
-author: Marcos Piangers
-site: http://wp.kzuka.com.br/calaabocapiangers/
+author: piangers
 ---
 
 > George não trabalha. Ele é um mendigo.

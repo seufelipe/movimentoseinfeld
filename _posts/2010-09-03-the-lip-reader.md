@@ -2,8 +2,7 @@
 layout: post
 title: The lip reader
 number: 506
-author: Marcos Donizetti
-site: http://donizetti.opsblog.org/
+author: doni
 ---
 
 > Lembre-se disso: quando você controla o correio, você controla a informação!

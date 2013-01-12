@@ -2,8 +2,7 @@
 layout: post
 title: The Stand In
 number: 516
-author: Rafael Madeira
-site: http://twitter.com/rafaelmadeira
+author: rafaelmadeira
 ---
 
 > Se você não consegue dizer algo ruim sobre um relacionamento, não deveria dizer nada.

@@ -2,8 +2,7 @@
 layout: post
 title: The suicide
 number: 315
-author: Erik Gustavo
-site: http://erikgustavo.com/
+author: erik
 ---
 
 > Não entendo essa máquina de suicídio. Não há prédios altos onde essa gente mora? Não podem colocar um revólver na boca como pessoas normais?

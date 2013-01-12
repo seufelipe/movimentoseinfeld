@@ -2,8 +2,7 @@
 layout: post
 title: The Dinner Party
 number: 513
-author: Seu Felipe
-site: http://seufelipe.com.br/
+author: felipe
 ---
 
 > De um lado ele é esperto com foguetes e do outro ele é burro para estacionar.

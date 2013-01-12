@@ -2,8 +2,7 @@
 layout: post
 title: The airport
 number: 412
-author: Léo Luz
-site: http://www.leonardoluz.com/
+author: leoluz
 ---
 
 > Eu nunca conheci um homem que soubesse tanto sobre nada.

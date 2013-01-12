@@ -3,6 +3,7 @@ layout: post
 title: The implant
 number: 419
 author: edsonmorais
+image: http://movimentoseinfeld.com.br/images/episodes/seinfeld-the-implant.jpg
 ---
 
 > Você não toca o nariz. Você não aspira alcançar o nariz. Você não arranca nada para chegar ao nariz, e homem nenhum jamais tentou olhar pela narina de uma mulher!

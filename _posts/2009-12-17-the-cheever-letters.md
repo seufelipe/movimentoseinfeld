@@ -3,6 +3,7 @@ layout: post
 title: The Cheever letters
 number: 408
 author: edsonmorais
+image: http://movimentoseinfeld.com.br/images/episodes/seinfeld-the-cheever-letters.jpg
 ---
 
 > A calcinha que sua mãe escolheu para você!

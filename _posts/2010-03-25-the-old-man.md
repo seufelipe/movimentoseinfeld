@@ -3,6 +3,7 @@ layout: post
 title: The old man
 number: 418
 author: pedrohollanda
+image: http://movimentoseinfeld.com.br/images/episodes/seinfeld-the-old-man.jpg
 ---
 
 > Eu venho de uma longa linhagem de desistentes. Meu pai era um desistente, meu avô era um desistente. Eu fui criado pra falhar.

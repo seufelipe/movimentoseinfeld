@@ -3,6 +3,7 @@ layout: post
 title: The contest
 number: 411
 author: henriquecapanema
+image: http://movimentoseinfeld.com.br/images/episodes/seinfeld-the-contest.jpg
 ---
 
 > Você é mestre do seu domínio?

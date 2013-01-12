@@ -3,6 +3,7 @@ layout: post
 title: The pitch &amp; The ticket
 number: 403/404
 author: felipe
+image: http://movimentoseinfeld.com.br/images/episodes/seinfeld-the-pitch.jpg
 ---
 
 > O que passou pela sua cabeça? Integridade artística? De onde você tirou isso? Você não é artista e não tem integridade.

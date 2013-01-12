@@ -3,6 +3,7 @@ layout: post
 title: The virgin
 number: 410
 author: felipe
+image: http://movimentoseinfeld.com.br/images/episodes/seinfeld-the-virgin.jpg
 ---
 
 > Sempre que eu acho que eu estou fora, eles me puxam pra dentro novamente!

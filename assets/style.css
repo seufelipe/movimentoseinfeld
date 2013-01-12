@@ -163,11 +163,16 @@ a:active {
 	margin: 0 auto 24px auto;
 	margin: 0 auto 1.5rem auto;
 	overflow: hidden;
+	position: relative;
 	width: 192px;
 }
 
 .post-image img {
 	display: block;
+	margin-left: -150px;
+	position: absolute;
+	top: 0;
+	left: 50%;
 }
 
 .post-number {

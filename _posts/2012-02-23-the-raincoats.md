@@ -2,7 +2,7 @@
 layout: post
 title: The Raincoats
 number: 518/519
-image: https://s3-sa-east-1.amazonaws.com/movimentoseinfeld/seinfeld-the-raincoats.jpg
+image: http://movimentoseinfeld.com.br/images/episodes/seinfeld-the-raincoats.jpg
 description: Episódio duplo. Elaine sai com um homem que conversa perto demais e adora passar tempo com os pais de Jerry. Jerry é pego beijando uma garota durante uma sessão de A Lista de Schindler. Kramer monta um negócio com o pai do Jerry.
 author: david
 ---

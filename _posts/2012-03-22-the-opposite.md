@@ -2,7 +2,7 @@
 layout: post
 title: The Opposite
 number: 522
-image: https://s3-sa-east-1.amazonaws.com/movimentoseinfeld/seinfeld-the-opposite.jpg
+image: http://movimentoseinfeld.com.br/images/episodes/seinfeld-the-opposite.jpg
 description: George conclui que todos os seus instintos estão errados e decide começar a fazer tudo ao contrário do que normalmente faria.
 author: marcelocosta
 ---

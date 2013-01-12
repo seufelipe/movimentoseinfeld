@@ -3,6 +3,7 @@ layout: post
 title: The Dinner Party
 number: 513
 author: felipe
+image: http://movimentoseinfeld.com.br/images/episodes/seinfeld-the-dinner-party.jpg
 ---
 
 > De um lado ele é esperto com foguetes e do outro ele é burro para estacionar.

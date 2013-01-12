@@ -3,6 +3,7 @@ layout: post
 title: The sniffing accountant
 number: 504
 author: felipe
+image: http://movimentoseinfeld.com.br/images/episodes/seinfeld-the-sniffing-accountant.jpg
 ---
 
 > Ele falava muita gíria? Ele usou o termo "cara"?

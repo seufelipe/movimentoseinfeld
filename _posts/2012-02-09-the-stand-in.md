@@ -3,6 +3,7 @@ layout: post
 title: The Stand In
 number: 516
 author: rafaelmadeira
+image: http://movimentoseinfeld.com.br/images/episodes/seinfeld-the-stand-in.jpg
 ---
 
 > Se você não consegue dizer algo ruim sobre um relacionamento, não deveria dizer nada.

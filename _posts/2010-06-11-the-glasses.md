@@ -3,6 +3,7 @@ layout: post
 title: The glasses
 number: 503
 author: robertoalmeida
+image: http://movimentoseinfeld.com.br/images/episodes/seinfeld-the-glasses.jpg
 ---
 
 > Ele não sabe diferenciar uma maçã de uma cebola e ele é sua testemunha ocular?

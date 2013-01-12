@@ -3,6 +3,7 @@ layout: post
 title: The conversion
 number: 511
 author: guslanzetta
+image: http://movimentoseinfeld.com.br/images/episodes/seinfeld-the-conversion.jpg
 ---
 
 > Jerry, estou dizendo, eu tenho esse poder. E eu não tenho controle sobre ele.

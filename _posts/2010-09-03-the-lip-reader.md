@@ -3,6 +3,7 @@ layout: post
 title: The lip reader
 number: 506
 author: doni
+image: http://movimentoseinfeld.com.br/images/episodes/seinfeld-the-lip-reader.jpg
 ---
 
 > Lembre-se disso: quando você controla o correio, você controla a informação!

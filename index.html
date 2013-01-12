@@ -6,8 +6,13 @@ title : Reprises alternativas da nossa série favorita
 {% for post in site.posts limit:1 %}
 	{% assign author = site.authors[post.author] %}
 	<article class="hentry feature">
-		<a title="{{ post.title }}, por {{ post.author }}" href="{{ post.url }}" class="post-link">
+		<a title="{{ post.title }}, por {{ author.display_name }}" href="{{ post.url }}" class="post-link">
 			<header class="post-info">
+				{% if post.image %}
+					<figure class="post-image">
+						<img src="{{ post.image }}" alt="{{ post.title }}" />
+					</figure>
+				{% endif %}
       	  	    <p class="post-number">{{ post.number }}</p>
       	  	    <h2 class="post-title">{{ post.title }}</h2>
       	  	    {% if author %}
@@ -23,7 +28,7 @@ title : Reprises alternativas da nossa série favorita
 {% for post in site.posts offset:1 %}
 	{% assign author = site.authors[post.author] %}
 	<article class="hentry index">
-		<a title="{{ post.title }}, por {{ post.author }}" href="{{ post.url }}" class="post-link">
+		<a title="{{ post.title }}, por {{ author.display_name }}" href="{{ post.url }}" class="post-link">
 			<header class="post-info">
       	  	    <p class="post-number">{{ post.number }}</p>
       	  	    <h2 class="post-title">{{ post.title }}</h2>

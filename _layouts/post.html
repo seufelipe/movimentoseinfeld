@@ -6,6 +6,11 @@ layout: default
 <article class="hentry single">
 
 	<header class="post-info">
+		{% if page.image %}
+			<figure class="post-image">
+				<img src="{{ page.image }}" alt="{{ page.title }}" />
+			</figure>
+		{% endif %}
 		<p class="post-number">{{ page.number }}</p>
 		<h2 class="post-title"><a href="{{ page.url }}" title="Compartilhar {{ page.title }}">{{ page.title }}</a></h2>
 		{% if author %}

@@ -157,6 +157,19 @@ a:active {
 	text-align: center;
 }
 
+.post-image {
+	border-radius: 50%;
+	height: 192px;
+	margin: 0 auto 24px auto;
+	margin: 0 auto 1.5rem auto;
+	overflow: hidden;
+	width: 192px;
+}
+
+.post-image img {
+	display: block;
+}
+
 .post-number {
 	color: #999;
 	font-weight: normal;
@@ -205,8 +218,8 @@ a:active {
 /* Single */
 
 .single .post-info {
-	margin-bottom: 48px;
-	margin-bottom: 3rem;
+	margin-bottom: 24px;
+	margin-bottom: 1.5rem;
 }
 
 .single.hentry {

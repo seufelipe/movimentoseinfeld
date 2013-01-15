@@ -3,10 +3,10 @@
 	<head>
 		<meta charset=utf-8 />
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-		<title>{% if page.title %}{{ page.title }} ~ {% endif %}{% site.title %}</title>
-		{% if page.description %}<meta name="description" content="{{ page.description }}">{% else %}<meta name="description" content="Toda quinta-feira um texto sobre um episódio de Seinfeld, seguindo a ordem em que eles foram ao ar, de Chronicles ao Finale.">{% endif %}
+		<title>{% if page.title %}{{ page.title }} ~ {% endif %}{{ site.title }}</title>
+		{% if page.description %}<meta name="description" content="{{ page.description }}">{% else %}<meta name="description" content="{{ site.description }}">{% endif %}
 		<meta name="viewport" content="width=device-width">
-		<link rel="alternate" type="application/rss+xml" title="{% site.title %}" href="http://feeds.feedburner.com/movimentoseinfeld">
+		<link rel="alternate" type="application/rss+xml" title="Movimento Seinfeld" href="http://feeds.feedburner.com/movimentoseinfeld">
 		<link rel="stylesheet" href="/assets/style.css">
 		
 		<!-- open graphZzZzZzZzZz -->
@@ -16,7 +16,7 @@
 		{% if page.image %}<meta property="og:image" content="{{ page.image }}">{% else %}<meta property="og:image" content="http://movimentoseinfeld.com.br/images/seinfeld.jpg" />{% endif %}
 		<meta property="og:site_name" content="Movimento Seinfeld" />
 		<meta property="fb:app_id" content="230575027017873" />
-		{% if page.description %}<meta property="og:description" content="{{ page.description }}">{% else %}<meta property="og:description" content="Toda quinta-feira um texto sobre um episódio de Seinfeld, seguindo a ordem em que eles foram ao ar, de Chronicles ao Finale."/>{% endif %}
+		{% if page.description %}<meta property="og:description" content="{{ page.description }}">{% else %}<meta property="og:description" content="{{ site.description }}"/>{% endif %}
 		
 		<script src="/assets/modernizr.js"></script>
 		<script>
@@ -27,7 +27,7 @@
 	<body>
 		
 		<header class="site-header">
-			<h1 class="site-title"><a href="/" title="{% site.title %}">{% site.title %}</a></h1>
+			<h1 class="site-title"><a href="/" title="{{ site.title }}">{{ site.title }}</a></h1>
 		</header><!-- /site-header -->
 		
 		<section class="content">
@@ -36,10 +36,10 @@
 		
 		<footer class="site-footer">
 			<p class="about">
-				{% site.description %}
+				{{ site.description }}
 				<br/>Contato no <a href="https://www.facebook.com/movimentoseinfeld/" title="Movimento Seinfeld no Facebook" rel="me">Facebook</a> ou no <a href="mailto:hola@seufelipe.com.br" title="Manda no email">email</a>.
 			</p>
-			<a href="/" title="{% site.title %}">{% site.title %}</a> &mdash; <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/" title="Licença Creative Commons Atribuição-Uso não-comercial-Compartilhamento pela mesma licença 3.0 Unported">Alguns direitos reservados</a>.
+			<a href="/" title="{{ site.title }}">{{ site.title }}</a> &mdash; <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/" title="Licença Creative Commons Atribuição-Uso não-comercial-Compartilhamento pela mesma licença 3.0 Unported">Alguns direitos reservados</a>.
 		</footer><!-- /site-footer -->
 		
 		<!-- google analytics -->

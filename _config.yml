@@ -6,131 +6,131 @@ title: Movimento Seinfeld
 description: Toda quinta-feira um texto sobre um episódio de Seinfeld, seguindo a ordem em que eles foram ao ar, de Chronicles ao Finale.
 
 authors:
-  felipe:
+  - name: felipe
     display_name: Seu Felipe
     web: http://seufelipe.com.br
-  ronald:
+  - name: ronald
     display_name: Ronald Rios
     web: http://ronaldrios.com.br
-  ulisses:
+  - name: ulisses
     display_name: Ulisses Mattos
     web: http://tolisses.com.br
-  chicobarney:
+  - name: chicobarney
     display_name: Chico Barney
     web: http://twitter.com/chicobarney
-  daniel:
+  - name: daniel
     display_name: Daniel Lima
     web: http://generico.interbarney.com
-  anderson:
+  - name: anderson
     display_name: Anderson Gomes
     web: http://www.rosebudeotreno.com
-  moskito:
+  - name: moskito
     display_name: Gabriel Von Doscht
     web: http://twitter.com/moskito
-  chini:
+  - name: chini
     display_name: Vinícius Perez
     web: http://confrariaonanista.wordpress.com
-  arnaldo:
+  - name: arnaldo
     display_name: Arnaldo Branco
     web: http://www.oesquema.com.br/mauhumor
-  renata:
+  - name: renata
     display_name: Renata Palladino
-  bzirpoli:
+  - name: bzirpoli
     display_name: Bernardo Zirpoli
     web: http://twitter.com/bzirpoli
-  leojaime:
+  - name: leojaime
     display_name: Leo Jaime
     web: http://www.leojaime.com.br
-  gustavodealmeida:
+  - name: gustavodealmeida
     display_name: Gustavo de Almeida
     web: http://interney.net/blogs/eclipse
-  netotorcato:
+  - name: netotorcato
     display_name: Neto Torcato
     web: http://netotorcato.blogspot.com.br
-  sergiomaggi:
+  - name: sergiomaggi
     display_name: Sérgio Maggi
     web: http://oglobo.globo.com/cultura/kogut/series
-  castrezana:
+  - name: castrezana
     display_name: Rodolfo Castrezana
     web: http://omedi.net
-  spiceee:
+  - name: spiceee
     display_name: Fabio Mont Alegre
     web: http://twitter.com/spiceee
-  marcelefernandes:
+  - name: marcelefernandes
     display_name: Marcele Fernandes
     web: http://interney.net/blogs/eclipse
-  haroldomourao:
+  - name: haroldomourao
     display_name: Haroldo Mourão
     web: http://twitter.com/Oharoldomourao
-  cintia:
+  - name: cintia
     display_name: Cintia Loureiro
     web: http://cintialoureiro.com.br
-  erik:
+  - name: erik
     display_name: Erik Gustavo
     web: http://erikgustavo.com
-  danielsansao:
+  - name: danielsansao
     display_name: Daniel Sansão
     web: http://www.danielsansao.com.br
-  danielpilon:
+  - name: danielpilon
     display_name: Daniel Pilon
     web: http://www.pilog.kit.net
-  rafaelcapanema:
+  - name: rafaelcapanema
     display_name: Rafael Capanema
     web: http://twitter.com/rafaelcapanema
-  robertoalmeida:
+  - name: robertoalmeida
     display_name: Roberto Almeida
     web: http://twitter.com/roberto_alm
-  ibere:
+  - name: ibere
     display_name: Iberê
     web: http://twitter.com/ibere
-  edsonmorais:
+  - name: edsonmorais
     display_name: Edson Morais
-  henriquecapanema:
+  - name: henriquecapanema
     display_name: Henrique Capanema
     web: http://twitter.com/capanema
-  leoluz:
+  - name: leoluz
     display_name: Léo Luz
     web: http://twitter.com/leoluz
-  mariannagomes:
+  - name: mariannagomes
     display_name: Marianna Gomes
-  leonardobraganca:
+  - name: leonardobraganca
     display_name: Leonardo Bragança
-  pedrohollanda:
+  - name: pedrohollanda
     display_name: Pedro Hollanda
     web: http://tallbuildingsshake.tumblr.com
-  carbonell:
+  - name: carbonell
     display_name: Leo Carbonell
     web: http://www.linkedin.com/in/leocarbonell
-  doni:
+  - name: doni
     display_name: Marcos Donizetti
     web: http://twitter.com/do_oni
-  gustavoguimaraes:
+  - name: gustavoguimaraes
     display_name: Gustavo Guimarães
     web: http://twitter.com/gusguimaraes
-  pedroadams:
+  - name: pedroadams
     display_name: Pedro Adams
     web: http://twitter.com/pedroadams
-  piangers:
+  - name: piangers
     display_name: Marcos Piangers
     web: http://twitter.com/piangers
-  guslanzetta:
+  - name: guslanzetta
     display_name: Gus Lanzetta
     web: http://guslanzetta.com
-  rafaelmadeira:
+  - name: rafaelmadeira
     display_name: Rafael Madeira
     web: http://twitter.com/rafaelmadeira
-  david:
+  - name: david
     display_name: David Boutsiavaras
     web: http://twitter.com/zambinos
-  joao:
+  - name: joao
     display_name: João Baldi Jr.
     web: http://justwrapped.interbarney.com
-  mitsu:
+  - name: mitsu
     display_name: Gabriel Mitsu
     web: http://mitsudiz.interbarney.com
-  marcelocosta:
+  - name: marcelocosta
     display_name: Marcelo Costa
     web: http://www.screamyell.com.br
-  felipesantoro:
+  - name: felipesantoro
     display_name: Felipe Santoro
     web: http://felipesantoro.wordpress.com  

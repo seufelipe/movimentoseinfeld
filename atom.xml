@@ -4,19 +4,20 @@ layout: nil
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
-	<title>Movimento Seinfeld</title>
+	<title>{{ site.title }}</title>
 	<link type="application/atom+xml" href="http://movimentoseinfeld.com.br/atom.xml" rel="self"/>
 	<link type="text" href="http://movimentoseinfeld.com.br/"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
 	<id>http://movimentoseinfeld.com.br/</id>
 
 	{% for post in site.posts limit:20 %}
+	{% assign author = site.authors[post.author] %}
 		<entry>
 			<title>{{ post.title }}</title>
    			<link href="http://movimentoseinfeld.com.br{{ post.url }}"/>
 			<updated>{{ post.date | date_to_xmlschema }}</updated>
 			<id>http://movimentoseinfeld.com.br{{ post.id }}</id>
-			<author><name>{{ post.author }}</name></author>
+			<author><name>{{ author.display_name }}</name></author>
    			<content type="html">{{ post.content | xml_escape }}</content>
  		</entry>
 	{% endfor %}

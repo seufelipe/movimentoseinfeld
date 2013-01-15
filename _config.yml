@@ -2,6 +2,9 @@ auto: true
 server: true
 permalink: /:title.html
 
+title: Movimento Seinfeld
+description: Toda quinta-feira um texto sobre um episódio de Seinfeld, seguindo a ordem em que eles foram ao ar, de Chronicles ao Finale.
+
 authors:
   felipe:
     display_name: Seu Felipe

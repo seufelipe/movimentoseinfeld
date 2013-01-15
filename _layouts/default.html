@@ -3,10 +3,10 @@
 	<head>
 		<meta charset=utf-8 />
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-		<title>{% if page.title %}{{ page.title }} ~ {% endif %}Movimento Seinfeld</title>
+		<title>{% if page.title %}{{ page.title }} ~ {% endif %}{% site.title %}</title>
 		{% if page.description %}<meta name="description" content="{{ page.description }}">{% else %}<meta name="description" content="Toda quinta-feira um texto sobre um episódio de Seinfeld, seguindo a ordem em que eles foram ao ar, de Chronicles ao Finale.">{% endif %}
 		<meta name="viewport" content="width=device-width">
-		<link rel="alternate" type="application/rss+xml" title="Movimento Seinfeld" href="http://feeds.feedburner.com/movimentoseinfeld">
+		<link rel="alternate" type="application/rss+xml" title="{% site.title %}" href="http://feeds.feedburner.com/movimentoseinfeld">
 		<link rel="stylesheet" href="/assets/style.css">
 		
 		<!-- open graphZzZzZzZzZz -->
@@ -27,7 +27,7 @@
 	<body>
 		
 		<header class="site-header">
-			<h1 class="site-title"><a href="/" title="Movimento Seinfeld: reprises alternativas da nossa série favorita">Movimento Seinfeld</a></h1>
+			<h1 class="site-title"><a href="/" title="{% site.title %}">{% site.title %}</a></h1>
 		</header><!-- /site-header -->
 		
 		<section class="content">
@@ -36,10 +36,10 @@
 		
 		<footer class="site-footer">
 			<p class="about">
-				Toda quinta-feira um texto sobre um episódio de Seinfeld, seguindo a ordem em que eles foram ao ar, de <a href="http://movimentoseinfeld.com.br/the-seinfeld-chronicles.html">Chronicles</a> ao <strong>Finale</strong>.
+				{% site.description %}
 				<br/>Contato no <a href="https://www.facebook.com/movimentoseinfeld/" title="Movimento Seinfeld no Facebook" rel="me">Facebook</a> ou no <a href="mailto:hola@seufelipe.com.br" title="Manda no email">email</a>.
 			</p>
-			<a href="/" title="Movimento Seinfeld: reprises alternativas da nossa série favorita">Movimento Seinfeld</a> &mdash; <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/" title="Licença Creative Commons Atribuição-Uso não-comercial-Compartilhamento pela mesma licença 3.0 Unported">Alguns direitos reservados</a>.
+			<a href="/" title="{% site.title %}">{% site.title %}</a> &mdash; <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/" title="Licença Creative Commons Atribuição-Uso não-comercial-Compartilhamento pela mesma licença 3.0 Unported">Alguns direitos reservados</a>.
 		</footer><!-- /site-footer -->
 		
 		<!-- google analytics -->

@@ -1,0 +1,24 @@
+---
+layout: nil
+---
+
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+	Seu Felipe -- http://seufelipe.com.br
+
+# THANKS
+
+{% for author in site.authors offset:1 %}
+	{{ author.display_name }}{% if author.web %} -- {{ author.web }}{% endif %}
+{% endfor %}
+
+# TECHNOLOGY COLOPHON
+
+	HTML5, CSS3
+	HTML5 Boilerplate, jQuery, Jekyll
+	Coda, iA Writer, Basecamp, GitHub
+
+	Source: https://github.com/seufelipe/movimentoseinfeld

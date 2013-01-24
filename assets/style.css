@@ -195,6 +195,13 @@ a:active {
 	line-height: 1.33;
 }
 
+.post-description {
+	color: #666;
+	font-style: italic;
+	line-height: 1.5;
+	margin: 1.5rem 0;
+}
+
 .byline {
 	color: #999;
 	font-size: 16px;

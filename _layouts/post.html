@@ -13,6 +13,11 @@ layout: default
 		{% endif %}
 		<p class="post-number">{{ page.number }}</p>
 		<h2 class="post-title"><a href="{{ page.url }}" title="Compartilhar {{ page.title }}">{{ page.title }}</a></h2>
+		{% if page.description %}
+      		<div class="post-description">
+      	  		{{ page.description }}
+      	  	</div>
+      	{% endif %}
 		{% if author %}
 		<div class="byline vcard">
 			por 
@@ -49,7 +54,7 @@ layout: default
         <article class="hentry hentry--previous">
             <a title="Episódio anterior: {{page.previous.title}}" href="{{page.previous.url}}" class="post-link">
             	<header class="post-info">
-          	  	    <p class="post-number">{{page.previous.number}}</p>
+          	  	    <p class="post-number">Episódio anterior</p>
           	  	    <h2 class="post-title">{{page.previous.title}}</h2>
           	  	    {% if author %}
           	  	    	<div class="byline vcard">
@@ -66,7 +71,7 @@ layout: default
         <article class="hentry hentry--next">
             <a title="Próximo episódio: {{page.next.title}}" href="{{page.next.url}}" class="post-link">
             	<header class="post-info">
-          	  	    <p class="post-number">{{page.next.number}}</p>
+          	  	    <p class="post-number">Próximo episódio</p>
           	  	    <h2 class="post-title">{{page.next.title}}</h2>
           	  	    {% if author %}
           	  	    	<div class="byline vcard">

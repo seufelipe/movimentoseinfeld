@@ -15,6 +15,11 @@ title : Reprises alternativas da nossa série favorita
 				{% endif %}
       	  	    <p class="post-number">{{ post.number }}</p>
       	  	    <h2 class="post-title">{{ post.title }}</h2>
+      	  	    {% if post.description %}
+      	  	    	<div class="post-description">
+      	  	    		{{ post.description }}
+      	  	    	</div>
+      	  	    {% endif %}
       	  	    {% if author %}
       	  	    	<div class="byline vcard">
       	  	    	    por <span class="fn">{{ author.display_name }}</span>
@@ -32,6 +37,11 @@ title : Reprises alternativas da nossa série favorita
 			<header class="post-info">
       	  	    <p class="post-number">{{ post.number }}</p>
       	  	    <h2 class="post-title">{{ post.title }}</h2>
+      	  	    {% if post.description %}
+      	  	    	<div class="post-description">
+      	  	    		{{ post.description }}
+      	  	    	</div>
+      	  	    {% endif %}
       	  	    {% if author %}
       	  	    	<div class="byline vcard">
       	  	    	    por <span class="fn">{{ author.display_name }}</span>

@@ -3,7 +3,7 @@ server: true
 permalink: /:title.html
 
 title: Movimento Seinfeld
-description: Toda quinta-feira um texto sobre um episódio de Seinfeld, seguindo a ordem em que eles foram ao ar, de Chronicles ao Finale.
+description: Toda quinta-feira um texto sobre um episódio do seriado Seinfeld, seguindo a ordem em que eles foram ao ar, de Chronicles ao Finale.
 
 authors:
   felipe:
@@ -133,4 +133,7 @@ authors:
     web: http://www.screamyell.com.br
   felipesantoro:
     display_name: Felipe Santoro
-    web: http://felipesantoro.wordpress.com  
+    web: http://felipesantoro.wordpress.com
+  tiagoagostini:
+    display_name: Tiago Agostini
+    web: https://twitter.com/tiagoagostini

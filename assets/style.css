@@ -197,8 +197,10 @@ a:active {
 
 .post-description {
 	color: #666;
+	font-size: 14px;
+	font-size: .88rem;
 	font-style: italic;
-	line-height: 1.5;
+	line-height: 1.71;
 	margin: 1.5rem 0;
 }
 

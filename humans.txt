@@ -19,6 +19,6 @@ layout: nil
 
 	HTML5, CSS3
 	HTML5 Boilerplate, jQuery, Jekyll
-	Coda, iA Writer, Basecamp, GitHub
+	Sublime Text 2, iA Writer, Basecamp, GitHub
 
 	Source: https://github.com/seufelipe/movimentoseinfeld

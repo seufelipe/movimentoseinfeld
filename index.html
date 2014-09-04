@@ -4,7 +4,7 @@ title : Reprises alternativas da nossa série favorita
 ---
 
 {% for post in site.posts limit:1 %}
-	{% assign author = site.authors[post.author] %}
+	{% assign author = site.data.authors[post.author] %}
 	<article class="hentry feature">
 		<a title="{{ post.title }}" href="{{ post.url }}" class="post-link">
 			<header class="post-info">
@@ -22,7 +22,7 @@ title : Reprises alternativas da nossa série favorita
       	  	    {% endif %}
       	  	    {% if author %}
       	  	    	<div class="byline vcard">
-      	  	    	    por <span class="fn">{{ author.display_name }}</span>
+      	  	    	    por <span class="fn">{{ author.name }}</span>
       	  	    	</div>
       	  	  	{% endif %}
       	  	</header>
@@ -31,7 +31,7 @@ title : Reprises alternativas da nossa série favorita
 {% endfor %}
 
 {% for post in site.posts offset:1 %}
-	{% assign author = site.authors[post.author] %}
+	{% assign author = site.data.authors[post.author] %}
 	<article class="hentry index">
 		<a title="{{ post.title }}" href="{{ post.url }}" class="post-link">
 			<header class="post-info">
@@ -44,7 +44,7 @@ title : Reprises alternativas da nossa série favorita
       	  	    {% endif %}
       	  	    {% if author %}
       	  	    	<div class="byline vcard">
-      	  	    	    por <span class="fn">{{ author.display_name }}</span>
+      	  	    	    por <span class="fn">{{ author.name }}</span>
       	  	    	</div>
       	  	  	{% endif %}
       	  	</header>

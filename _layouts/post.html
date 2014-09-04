@@ -2,7 +2,8 @@
 layout: default
 ---
 
-{% assign author = site.authors[page.author] %}
+{% assign author = site.data.authors[page.author] %}
+
 <article class="hentry single">
 
 	<header class="post-info">
@@ -18,18 +19,18 @@ layout: default
       	  		{{ page.description }}
       	  	</div>
       	{% endif %}
-		{% if author %}
+
 		<div class="byline vcard">
-			por 
+			por
 			{% if author.web %}
-				<a href="{{ author.web }}" title="Ver site de {{ author.display_name }}" class="url fn">{{ author.display_name }}</a>
+				<a href="{{ author.web }}" title="Ver site de {{ author.name }}" class="url fn">{{ author.name }}</a>
 			{% else %}
-				<span class="fn">{{ author.display_name }}</span>
+				<span class="fn">{{ author.name }}</span>
 			{% endif %}
       	</div>
-      	{% endif %}
+
 	</header>
-	
+
 	<div class="post-content">
 		{{ content }}
 	</div>
@@ -48,9 +49,9 @@ layout: default
 </script>
 <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<nav class="navigation post--navigation"> 
+<nav class="navigation post--navigation">
     {% if page.previous.url %}
-        {% assign author = site.authors[page.previous.author] %}
+        {% assign author = site.data.authors[page.previous.author] %}
         <article class="hentry hentry--previous">
             <a title="Episódio anterior: {{page.previous.title}}" href="{{page.previous.url}}" class="post-link">
             	<header class="post-info">
@@ -58,7 +59,7 @@ layout: default
           	  	    <h2 class="post-title">{{page.previous.title}}</h2>
           	  	    {% if author %}
           	  	    	<div class="byline vcard">
-              	  	    	por <span class="fn">{{ author.display_name }}</span>
+              	  	    	por <span class="fn">{{ author.name }}</span>
             	    	</div>
             		{% endif %}
           	  	</header>
@@ -67,7 +68,7 @@ layout: default
     {% endif %}
 
     {% if page.next.url %}
-        {% assign author = site.authors[page.next.author] %}
+        {% assign author = site.data.authors[page.next.author] %}
         <article class="hentry hentry--next">
             <a title="Próximo episódio: {{page.next.title}}" href="{{page.next.url}}" class="post-link">
             	<header class="post-info">
@@ -75,11 +76,11 @@ layout: default
           	  	    <h2 class="post-title">{{page.next.title}}</h2>
           	  	    {% if author %}
           	  	    	<div class="byline vcard">
-              	  	    	por <span class="fn">{{ author.display_name }}</span>
+              	  	    	por <span class="fn">{{ author.name }}</span>
             	    	</div>
             		{% endif %}
           	  	</header>
             </a>
-        </article> 
+        </article>
     {% endif %}
 </nav>

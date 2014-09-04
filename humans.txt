@@ -11,8 +11,8 @@ layout: null
 
 # THANKS
 
-{% for author in site.authors reversed %}
-	{{ author[1].display_name }}{% if author[1].web %} -- {{ author[1].web }}{% endif %}
+{% for author in site.data.authors %}  
+    {{ author.name }} -- {{ author.web }}  
 {% endfor %}
 
 # TECHNOLOGY COLOPHON

@@ -3,34 +3,7 @@ layout: default
 title : Reprises alternativas da nossa série favorita
 ---
 
-{% for post in site.posts limit:1 %}
-    {% assign author = site.data.authors[post.author] %}
-    <article class="hentry feature">
-        <a title="{{ post.title }}" href="{{ post.url }}" class="post-link">
-            <header class="post-info">
-                {% if post.image %}
-                    <figure class="post-image">
-                        <img src="{{ post.image }}" alt="{{ post.title }}" />
-                    </figure>
-                {% endif %}
-                <p class="post-number">{{ post.number }}</p>
-                <h2 class="post-title">{{ post.title }}</h2>
-                {% if post.description %}
-                    <div class="post-description">
-                        {{ post.description }}
-                    </div>
-                {% endif %}
-                {% if author %}
-                    <div class="byline vcard">
-                        por <span class="fn">{{ author.name }}</span>
-                    </div>
-                {% endif %}
-            </header>
-        </a>
-    </article>
-{% endfor %}
-
-{% for post in site.posts offset:1 %}
+{% for post in site.posts %}
     {% assign author = site.data.authors[post.author] %}
     <article class="hentry index">
         <a title="{{ post.title }}" href="{{ post.url }}" class="post-link">

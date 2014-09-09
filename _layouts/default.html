@@ -11,7 +11,14 @@
         {% endif %}
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="alternate" type="application/rss+xml" title="Movimento Seinfeld" href="http://feeds.feedburner.com/movimentoseinfeld">
+
         <link rel="stylesheet" href="/assets/style.css">
+
+        <!-- judo font awesome -->
+        <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+
+        <!-- brick fonts -->
+        <link rel="stylesheet" href="//brick.a.ssl.fastly.net/Bitter:400,700,400i,700i/Karla:400,700">
 
         <!-- humanstxt.org -->
         <link rel="author" href="/humans.txt">
@@ -30,22 +37,24 @@
     </head>
 
     <body>
-        <header class="site-header">
-            <h1 class="site-title"><a href="/" title="{{ site.title }}">{{ site.title }}</a></h1>
-        </header>
-        <!-- /site-header -->
+        <div class="container">
+            <header class="site-header">
+                <h1 class="site-title"><a href="/" title="{{ site.title }}">{{ site.title }}</a></h1>
+            </header>
+            <!-- /site-header -->
 
-        <section class="content">
-            {{ content }}
-        </section>
-        <!-- /content -->
+            <section class="content">
+                {{ content }}
+            </section>
+            <!-- /content -->
+        </div>
 
         <footer class="site-footer">
-            <p class="about">
-                {{ site.description }}
-                <br/>Contato no <a href="https://www.facebook.com/movimentoseinfeld/" title="Movimento Seinfeld no Facebook" rel="me">Facebook</a> ou no <a href="mailto:hola@seufelipe.com.br" title="Manda no email">email</a>.
-            </p>
-            <a href="/" title="{{ site.title }}">{{ site.title }}</a> &mdash; <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/" title="Licença Creative Commons Atribuição-Uso não-comercial-Compartilhamento pela mesma licença 3.0 Unported">Alguns direitos reservados</a>.
+                <p class="about">
+                    {{ site.description }}
+                    <br/>Contato no <a href="https://www.facebook.com/movimentoseinfeld/" title="Movimento Seinfeld no Facebook" rel="me">Facebook</a> ou no <a href="mailto:hola@seufelipe.com.br" title="Manda no email">email</a>.
+                </p>
+                <a href="/" title="{{ site.title }}">{{ site.title }}</a> &mdash; <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/" title="Licença Creative Commons Atribuição-Uso não-comercial-Compartilhamento pela mesma licença 3.0 Unported">Alguns direitos reservados</a>.
         </footer>
         <!-- /site-footer -->
 

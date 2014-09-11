@@ -6,15 +6,10 @@ title : Reprises alternativas da nossa série favorita
 {% for post in site.posts %}
     {% assign author = site.data.authors[post.author] %}
     <article class="hentry index">
-        <a title="{{ post.title }}" href="{{ post.url }}" class="post-link">
+        <a title="{{ post.title }}" href="{{ site.baseurl }}{{ post.url }}" class="post-link">
             <header class="post-info">
                 <p class="post-number">{{ post.number }}</p>
                 <h2 class="post-title">{{ post.title }}</h2>
-                {% if post.description %}
-                    <div class="post-description">
-                        {{ post.description }}
-                    </div>
-                {% endif %}
                 {% if author %}
                     <div class="byline vcard">
                         por <span class="fn">{{ author.name }}</span>

@@ -1,4 +1,22 @@
-permalink: /:title.html
-
 title: Movimento Seinfeld
 description: Toda quinta-feira um texto sobre um episódio do seriado Seinfeld, seguindo a ordem em que eles foram ao ar, de Chronicles ao Finale.
+
+# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
+google_analytics: UA-1137716-8
+
+# Your disqus shortname, entering this will enable commenting on posts
+disqus: movimentoseinfeld
+
+# Includes an icon in the footer for each username you enter
+contact:
+  email: hola@seufelipe.com.br
+  facebook: movimentoseinfeld
+  github: seufelipe/movimentoseinfeld
+
+markdown: kramdown
+highlighter: pygments
+permalink: /:title.html
+
+# Exclude these files from your production _site
+exclude:
+  - readme.md

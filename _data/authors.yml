@@ -1,6 +1,7 @@
 felipe:
   name: Seu Felipe
   web: http://seufelipe.com.br
+  twitter: seufelipe
 
 ronald:
   name: Ronald Rios
@@ -12,7 +13,7 @@ ulisses:
 
 chicobarney:
   name: Chico Barney
-  web: http://twitter.com/chicobarney
+  twitter: chicobarney
 
 daniel:
   name: Daniel Lima
@@ -24,11 +25,11 @@ anderson:
 
 moskito:
   name: Gabriel Von Doscht
-  web: http://twitter.com/moskito
+  twitter: moskito
 
 chini:
   name: Vinícius Perez
-  web: http://twitter.com/chinisalada
+  twitter: chinisalada
 
 arnaldo:
   name: Arnaldo Branco
@@ -39,7 +40,7 @@ renata:
 
 bzirpoli:
   name: Bernardo Zirpoli
-  web: http://twitter.com/bzirpoli
+  twitter: bzirpoli
 
 leojaime:
   name: Leo Jaime
@@ -63,7 +64,7 @@ castrezana:
 
 spiceee:
   name: Fabio Mont Alegre
-  web: http://twitter.com/spiceee
+  twitter: spiceee
 
 marcelefernandes:
   name: Marcele Fernandes
@@ -71,7 +72,7 @@ marcelefernandes:
 
 haroldomourao:
   name: Haroldo Mourão
-  web: http://twitter.com/Oharoldomourao
+  twitter: Oharoldomourao
 
 cintia:
   name: Cintia Loureiro
@@ -91,26 +92,26 @@ danielpilon:
 
 rafaelcapanema:
   name: Rafael Capanema
-  web: http://twitter.com/rafaelcapanema
+  twitter: rafaelcapanema
 
 robertoalmeida:
   name: Roberto Almeida
-  web: http://twitter.com/roberto_alm
+  twitter: roberto_alm
 
 ibere:
   name: Iberê
-  web: http://twitter.com/ibere
+  twitter: ibere
 
 edsonmorais:
   name: Edson Morais
 
 henriquecapanema:
   name: Henrique Capanema
-  web: http://twitter.com/capanema
+  twitter: capanema
 
 leoluz:
   name: Léo Luz
-  web: http://twitter.com/leoluz
+  twitter: leoluz
 
 mariannagomes:
   name: Marianna Gomes
@@ -124,23 +125,23 @@ pedrohollanda:
 
 carbonell:
   name: Leo Carbonell
-  web: http://www.linkedin.com/in/leocarbonell
+  linkedin: http://www.linkedin.com/in/leocarbonell
 
 doni:
   name: Marcos Donizetti
-  web: http://twitter.com/do_oni
+  twitter: do_oni
 
 gustavoguimaraes:
   name: Gustavo Guimarães
-  web: http://twitter.com/gusguimaraes
+  twitter: gusguimaraes
 
 pedroadams:
   name: Pedro Adams
-  web: http://twitter.com/pedroadams
+  twitter: pedroadams
 
 piangers:
   name: Marcos Piangers
-  web: http://twitter.com/piangers
+  twitter: piangers
 
 guslanzetta:
   name: Gus Lanzetta
@@ -148,15 +149,16 @@ guslanzetta:
 
 rafaelmadeira:
   name: Rafael Madeira
-  web: http://twitter.com/rafaelmadeira
+  twitter: rafaelmadeira
 
 david:
   name: David Boutsiavaras
-  web: http://twitter.com/zambinos
+  twitter: zambinos
 
 joao:
   name: João Baldi Jr.
-  web: http://justwrapped.interbarney.com
+  web: http://justwrapped.me
+  twitter: joaoluisjr
 
 mitsu:
   name: Gabriel Mitsu
@@ -172,11 +174,11 @@ felipesantoro:
 
 tiagoagostini:
   name: Tiago Agostini
-  web: https://twitter.com/tiagoagostini
+  twitter: tiagoagostini
 
 elson:
   name: Elson Barbosa
-  web: https://twitter.com/elson
+  twitter: elson
 
 marcoantonio:
   name: Marco Antonio Barbosa
@@ -184,4 +186,4 @@ marcoantonio:
 
 ale:
   name: Alexandre Oliveira
-  web: https://twitter.com/aloxondro
+  twitter: aloxondro

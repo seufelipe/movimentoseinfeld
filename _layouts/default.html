@@ -1,18 +1,18 @@
 <!doctype html>
 <html lang="pt-BR">
     <head>
-        <meta charset=utf-8>
+        <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title>{% if page.title %}{{ page.title }} — {% endif %}{{ site.title }}</title>
+        <title>{% if page.title %}{{ page.title }} &mdash; {% endif %}{{ site.title }}</title>
         {% if page.description %}
             <meta name="description" content="{{ page.description }}">
         {% else %}
             <meta name="description" content="{{ site.description }}">
         {% endif %}
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="alternate" type="application/rss+xml" title="Movimento Seinfeld" href="http://feeds.feedburner.com/movimentoseinfeld">
+        <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ site.baseurl }}/feed.xml">
 
-        <link rel="stylesheet" href="/assets/style.css">
+        <link rel="stylesheet" href="{{ site.baseurl }}/assets/style.css">
 
         <!-- judo font awesome -->
         <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
@@ -21,25 +21,24 @@
         <link rel="stylesheet" href="//brick.a.ssl.fastly.net/Bitter:400,700,400i,700i/Karla:400,700">
 
         <!-- humanstxt.org -->
-        <link rel="author" href="/humans.txt">
+        <link rel="author" href="{{ site.baseurl }}/humans.txt">
 
         <!-- open graphZzZzZzZzZz -->
         <meta property="og:title" content="{{ page.title }}" />
         <meta property="og:type" content="article" />
-        <meta property="og:url" content="http://movimentoseinfeld.com.br{{ page.url }}" />
+        <meta property="og:url" content="{{ site.baseurl }}{{ page.url }}" />
         {% if page.image %}<meta property="og:image" content="{{ page.image }}">{% else %}<meta property="og:image" content="http://movimentoseinfeld.com.br/images/seinfeld.jpg" />{% endif %}
-        <meta property="og:site_name" content="Movimento Seinfeld" />
+        <meta property="og:site_name" content="{{ site.title }}" />
         <meta property="fb:app_id" content="230575027017873" />
         {% if page.description %}<meta property="og:description" content="{{ page.description }}">{% else %}<meta property="og:description" content="{{ site.description }}"/>{% endif %}
 
-        <script src="/assets/modernizr.js"></script>
-        <script>var disqus_developer = 1;</script>
+        <script src="{{ site.baseurl }}/assets/modernizr.js"></script>
     </head>
 
     <body>
         <div class="container">
             <header class="site-header">
-                <h1 class="site-title"><a href="/" title="{{ site.title }}">{{ site.title }}</a></h1>
+                <h1 class="site-title"><a href="{{ site.baseurl }}/" title="{{ site.title }}">{{ site.title }}</a></h1>
             </header>
             <!-- /site-header -->
 
@@ -50,22 +49,31 @@
         </div>
 
         <footer class="site-footer">
-                <p class="about">
-                    {{ site.description }}
-                    <br/>Contato no <a href="https://www.facebook.com/movimentoseinfeld/" title="Movimento Seinfeld no Facebook" rel="me">Facebook</a> ou no <a href="mailto:hola@seufelipe.com.br" title="Manda no email">email</a>.
-                </p>
-                <a href="/" title="{{ site.title }}">{{ site.title }}</a> &mdash; <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/" title="Licença Creative Commons Atribuição-Uso não-comercial-Compartilhamento pela mesma licença 3.0 Unported">Alguns direitos reservados</a>.
+            <div class="about">
+                {{ site.description }}
+            </div>
+
+            <div class="colophon">
+                {% if site.contact.email %}<a href="mailto:{{ site.contact.email }}" class="email"><i class="fa  fa-envelope  fa-2x"></i></a>{% endif %}
+                {% if site.contact.facebook %}<a href="https://www.facebook.com/{{ site.contact.facebook }}" class="facebook"><i class="fa  fa-facebook  fa-2x"></i></a>{% endif %}
+                {% if site.contact.github %}<a href="https://github.com/{{ site.contact.github }}" class="github"><i class="fa  fa-github  fa-2x"></i></a>{% endif %}
+                <a href="{{ site.baseurl }}/feed.xml" class="rss"><i class="fa  fa-rss  fa-2x"></i></a>
+
+                <p class="license"><a href="{{ site.baseurl }}/">{{ site.title }}</a>&ndash;<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/" title="Licença Creative Commons Atribuição-Uso não-comercial-Compartilhamento pela mesma licença 3.0 Unported">Alguns direitos reservados</a>.</p>
+            </div>
         </footer>
         <!-- /site-footer -->
 
-        <!-- google analytics -->
-        <script>
-            (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
-            function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
-            e=o.createElement(i);r=o.getElementsByTagName(i)[0];
-            e.src='//www.google-analytics.com/analytics.js';
-            r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
-            ga('create','UA-1137716-8','auto');ga('send','pageview');
-        </script>
+        {% if site.google_analytics %}
+            <script>
+                (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+                })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+                ga('create', '{{ site.google_analytics }}', 'auto');
+                ga('send', 'pageview');
+            </script>
+        {% endif %}
     </body>
 </html>

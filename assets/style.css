@@ -27,7 +27,7 @@ html {
 
 body {
     background: transparent;
-    color: #555;
+    color: #56524c;
     font: 100%/1.5 Bitter, serif;
     margin: 0 auto;
 }
@@ -84,14 +84,25 @@ a:active {
     outline: 0;
 }
 
+blockquote p {
+    margin: 0;
+}
+
 .container {
-    background-color: #ededed;
+    background-color: #f5f2ed;
     box-shadow: 0 8px 0 rgba(0,0,0,.2);
-    margin-bottom: 200px;
     overflow: hidden;
-    padding-bottom: 40px;
+    padding-bottom: 3rem;
     position: relative;
     z-index: 3;
+}
+
+@media screen and (min-width: 40em) {
+
+    .container {
+        margin-bottom: 12rem;
+    }
+
 }
 
 .content {
@@ -116,27 +127,32 @@ a:active {
 }
 
 .site-title a {
-    color: #DA382B;
+    color: #da382b;
 }
 
 /* Footer */
 
 .site-footer {
-    background-color: #DA382B;
-    color: #fff;
-    font-size: .88rem;
-    line-height: 1.71;
-    height: 200px;
+    background-color: #da382b;
+    color: #f5f2ed;
     text-align: center;
-    position: fixed;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    z-index: -1;
+    padding: 3rem;
+}
+
+@media screen and (min-width: 40em) {
+
+    .site-footer {
+        height: 12rem;
+        position: fixed;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        z-index: -1;
+    }
+
 }
 
 .site-footer a {
-    border-bottom: 1px dotted;
     color: inherit;
 }
 
@@ -146,14 +162,14 @@ a:active {
 
 .about {
     font-style: italic;
+    margin-bottom: 1.5rem;
 }
 
 .hentry {
     background: #fff;
     background: rgba(255,255,255,.4);
-    border: 1px solid #d4d4d4;
+    border: 1px solid #ddd2c1;
     border-radius: 2px;
-    margin-bottom: 24px;
     margin-bottom: 1.5rem;
     position: relative;
 }
@@ -172,32 +188,24 @@ a:active {
 
 .post-link {
     display: block;
-    padding: 24px;
     padding: 1.5rem;
 }
 
 .post-info {
-    text-align: center;
+
 }
 
 .post-image {
     background-position: center;
     height: 12rem;
-    margin: 0 auto 1.5rem auto;
+    margin: 0 -5% 1.5rem -5%;
     overflow: hidden;
     position: relative;
-}
-
-.post-image img {
-    display: block;
-    margin-left: -150px;
-    position: absolute;
-    top: 0;
-    left: 50%;
+    width: 110%;
 }
 
 .post-number {
-    color: #999;
+    color: #948e85;
     font-weight: normal;
     letter-spacing: .06em;
     line-height: 1.5;
@@ -210,15 +218,12 @@ a:active {
 }
 
 .post-title {
-    color: #555555;
-    font-size: 36px;
     font-size: 2.25rem;
     line-height: 1.33;
 }
 
 .post-description {
-    color: #666;
-    font-size: 14px;
+    color: #68635c;
     font-size: .88rem;
     font-style: italic;
     line-height: 1.71;
@@ -226,41 +231,38 @@ a:active {
 }
 
 .byline {
-    color: #999;
-    font-size: 16px;
+    color: #948e85;
     font-size: 1rem;
     font-weight: normal;
     line-height: 1.5;
 }
 
 .byline a {
-    color: #999;
-    border-bottom: 1px dotted #666;
+    color: inherit;
 }
 
 .byline a:hover {
     color: #2b2b2b;
 }
 
-.feature {
-    background: #fff;
+a.twitter {
+    color: #55acee;
 }
 
-.feature .post-title {
-    color: #2b2b2b;
+a.linkedin {
+    color: #0976b4
 }
 
 /* Single */
-
-.single .post-info {
-    margin-bottom: 24px;
-    margin-bottom: 1.5rem;
-}
 
 .single.hentry {
     background: transparent;
     border: none;
     padding: 0;
+}
+
+.single .post-info {
+    margin-bottom: 3rem;
 }
 
 .post-content {
@@ -273,20 +275,29 @@ a:active {
 }
 
 .post-content a {
-    box-shadow: inset 0 -4px 0 #DA382B;
+    box-shadow: inset 0 -4px 0 #da382b;
     color: inherit;
 }
 
 .post-content blockquote:first-child {
-    float: left;
+    color: #da382b;
     font-style: italic;
-    margin: 0 1.5rem 0 -7em;
-    text-align: right;
-    width: 15em;
 }
 
-.navigation {
-    overflow: hidden;
+@media screen and (min-width: 40em) {
+
+    .post-content blockquote:first-child {
+        float: right;
+        margin: 0 -7em 0 1.5rem;
+        width: 15em;
+    }
+
+}
+
+.post-date {
+    color: #948e85;
+    font-size: .88rem;
+    line-height: 1.71;
 }
 
 .navigation .hentry:hover {
@@ -297,12 +308,18 @@ a:active {
     transition: background .1s ease-out;
 }
 
-.hentry--previous {
-    right: 24px;
-    right: 1.5rem;
+@media screen and (min-width: 40em) {
+
+    .hentry--previous {
+        right: 1.5rem;
+    }
+
+    .hentry--next {
+        left: 1.5rem;
+    }
+
 }
 
-.hentry--next {
-    left: 24px;
-    left: 1.5rem;
+.comments {
+    margin: 3rem 0;
 }

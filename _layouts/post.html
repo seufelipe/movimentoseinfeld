@@ -12,9 +12,9 @@ layout: default
             </figure>
         {% endif %}
 
-        <p class="post-number">{{ page.number }}</p>
+        <div class="hentry__number">{{ page.number }}</div>
 
-        <h2 class="post-title"><a href="{{ page.url }}" title="Compartilhar {{ page.title }}">{{ page.title }}</a></h2>
+        <h2 class="hentry__title"><a href="{{ page.url }}" title="Compartilhar {{ page.title }}">{{ page.title }}</a></h2>
 
         {% if page.description %}
             <div class="post-description">
@@ -55,37 +55,43 @@ layout: default
 </div>
 {% endif %}
 
-<nav class="navigation post--navigation  cf">
-    {% if page.next.url %}
-        {% assign author = site.data.authors[page.next.author] %}
-        <article class="hentry hentry--next">
-            <a title="Próximo episódio: {{page.next.title}}" href="{{page.next.url}}" class="post-link">
-                <header class="post-info">
-                    <p class="post-number">Próximo episódio</p>
-                    <h2 class="post-title">{{page.next.title}}</h2>
+<nav class="navigation  grid  post--navigation">
+    {% if page.previous.url %}
+        {% assign author = site.data.authors[page.previous.author] %}
+        <article class="hentry--grid">
+            <a title="Episódio anterior: {{ page.previous.title }}" href="{{ page.previous.url }}">
+                <div class="hentry--summary">
+                    <div class="hentry__number"><i class="fa fa-arrow-left"></i> Episódio anterior</div>
+                    <h2 class="hentry__title">{{ page.previous.title }}</h2>
                     {% if author %}
                         <div class="byline vcard">
                             por <span class="fn">{{ author.name }}</span>
                         </div>
                     {% endif %}
-                </header>
+                </div>
+                <div class="hentry--image" style="background-image: url({{ page.previous.image }})">
+                    <!-- {{ page.previous.image }} -->
+                </div>
             </a>
         </article>
     {% endif %}
 
-    {% if page.previous.url %}
-        {% assign author = site.data.authors[page.previous.author] %}
-        <article class="hentry hentry--previous">
-            <a title="Episódio anterior: {{page.previous.title}}" href="{{page.previous.url}}" class="post-link">
-                <header class="post-info">
-                    <p class="post-number">Episódio anterior</p>
-                    <h2 class="post-title">{{page.previous.title}}</h2>
+    {% if page.next.url %}
+        {% assign author = site.data.authors[page.next.author] %}
+        <article class="hentry--grid">
+            <a title="Próximo episódio: {{ page.next.title }}" href="{{ page.next.url }}">
+                <div class="hentry--summary">
+                    <div class="hentry__number"><i class="fa fa-arrow-right"></i> Próximo episódio</div>
+                    <h2 class="hentry__title">{{ page.next.title }}</h2>
                     {% if author %}
                         <div class="byline vcard">
                             por <span class="fn">{{ author.name }}</span>
                         </div>
                     {% endif %}
-                </header>
+                </div>
+                <div class="hentry--image" style="background-image: url({{ page.next.image }})">
+                    <!-- {{ page.next.image }} -->
+                </div>
             </a>
         </article>
     {% endif %}

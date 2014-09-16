@@ -18,7 +18,7 @@
         <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
 
         <!-- brick fonts -->
-        <link rel="stylesheet" href="//brick.a.ssl.fastly.net/Bitter:400,700,400i,700i/Karla:400,700">
+        <link rel="stylesheet" href="//brick.a.ssl.fastly.net/Montserrat:400,700/Vollkorn:400,700,400i,700i">
 
         <!-- humanstxt.org -->
         <link rel="author" href="{{ site.baseurl }}/humans.txt">
@@ -49,20 +49,28 @@
         </div>
 
         <footer class="site-footer">
-            <div class="about">
-                {{ site.description }}
-            </div>
-
             <div class="colophon">
-                {% if site.contact.email %}<a href="mailto:{{ site.contact.email }}" class="email"><i class="fa  fa-envelope  fa-2x"></i></a>{% endif %}
-                {% if site.contact.facebook %}<a href="https://www.facebook.com/{{ site.contact.facebook }}" class="facebook"><i class="fa  fa-facebook  fa-2x"></i></a>{% endif %}
-                {% if site.contact.github %}<a href="https://github.com/{{ site.contact.github }}" class="github"><i class="fa  fa-github  fa-2x"></i></a>{% endif %}
-                <a href="{{ site.baseurl }}/feed.xml" class="rss"><i class="fa  fa-rss  fa-2x"></i></a>
-
-                <p class="license"><a href="{{ site.baseurl }}/">{{ site.title }}</a>&ndash;<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/" title="Licença Creative Commons Atribuição-Uso não-comercial-Compartilhamento pela mesma licença 3.0 Unported">Alguns direitos reservados</a>.</p>
+                <div class="about">
+                    {{ site.description }}
+                </div>
+                <div class="license">
+                    <a href="{{ site.baseurl }}/">{{ site.title }}</a>
+                    &middot; <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/" title="Licença Creative Commons Atribuição-Uso não-comercial-Compartilhamento pela mesma licença 3.0 Unported">Alguns direitos reservados</a>
+                    &middot; <a href="{{ site.baseurl }}/humans.txt">humans.txt</a>
+                </div>
             </div>
+
+            <ul class="contact">
+                {% if site.contact.email %}<li><a href="mailto:{{ site.contact.email }}" class="email"><i class="fa  fa-envelope-o  fa-2x"></i></a></li>{% endif %}
+                {% if site.contact.facebook %}<li><a href="https://www.facebook.com/{{ site.contact.facebook }}" class="facebook"><i class="fa  fa-facebook  fa-2x"></i></a></li>{% endif %}
+                {% if site.contact.github %}<li><a href="https://github.com/{{ site.contact.github }}" class="github"><i class="fa  fa-github  fa-2x"></i></a></li>{% endif %}
+                <li><a href="{{ site.baseurl }}/feed.xml" class="rss"><i class="fa  fa-rss  fa-2x"></i></a></li>
+            </ul>
         </footer>
         <!-- /site-footer -->
+
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+        <script src="{{ site.baseurl }}/assets/js/main.js"></script>
 
         {% if site.google_analytics %}
             <script>

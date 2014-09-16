@@ -7,18 +7,18 @@ layout: null
 
 # TEAM
 
-	Seu Felipe -- http://seufelipe.com.br
+    Seu Felipe -- http://seufelipe.com.br
 
 # THANKS
 
-{% for author in site.data.authors %}  
-    {{ author.name }} -- {{ author.web }}  
+{% for author in site.data.authors %}
+    {{ author[1].name }} -- {{ author[1].web }}
 {% endfor %}
 
 # TECHNOLOGY COLOPHON
 
-	HTML5, CSS3
-	HTML5 Boilerplate, jQuery, Jekyll
-	Sublime Text 2, iA Writer, Basecamp, GitHub
+    HTML5, CSS3
+    HTML5 Boilerplate, jQuery, Jekyll
+    Sublime Text, iA Writer, GitHub
 
-	Source: https://github.com/seufelipe/movimentoseinfeld
+    Source: https://github.com/seufelipe/movimentoseinfeld

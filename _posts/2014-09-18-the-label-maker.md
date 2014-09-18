@@ -7,7 +7,7 @@ description: Jerry e Elaine re-presenteiam e des-presenteiam. George não fica m
 author: carbonell
 ---
 
-> If it was socially accepted I would drape myself in velvet
+> Se fosse socialmente aceitável, eu ia me cobrir inteiro com veludo.
 
 Acabei de rever o episódio "The Label-Maker" para produzir esse texto e, mesmo não sendo um dos meus favoritos, foi bem divertido. A trama é até complexa, pois tem o tema central (ingressos para o Super Bowl) e temas paralelos (o jogo do Risk e o colega de quarto da namorada do George).
 

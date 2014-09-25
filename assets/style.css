@@ -171,11 +171,15 @@ blockquote p {
 
 .colophon {
     margin-bottom: 1.5rem;
+}
 
+@media screen and (min-width: 40em) {
+    .colophon {
     -webkit-box-flex: 0;
     -webkit-flex: 2;
         -ms-flex: 2;
             flex: 2;
+    }
 }
 
 .colophon a {
@@ -194,12 +198,17 @@ blockquote p {
 .contact {
     list-style-type: none;
     margin: 0;
-    text-align: right;
+    text-align: left;
+}
 
-    -webkit-box-flex: 0;
-    -webkit-flex: 1;
-        -ms-flex: 1;
-            flex: 1;
+@media screen and (min-width: 40em) {
+    .contact {
+        text-align: right;
+        -webkit-box-flex: 0;
+        -webkit-flex: 1;
+            -ms-flex: 1;
+                flex: 1;
+    }
 }
 
 .contact li {
@@ -338,9 +347,9 @@ a.linkedin .fa {
     position: relative;
 
     -webkit-box-flex: 0;
-    -webkit-flex: 0 0 48%;
-        -ms-flex: 0 0 48%;
-            flex: 0 0 48%;
+    -webkit-flex: 0 0 100%;
+        -ms-flex: 0 0 100%;
+            flex: 0 0 100%;
 }
 
 .hentry--grid a {
@@ -370,6 +379,16 @@ a.linkedin .fa {
     -webkit-transition: -webkit-transform .4s, opacity .1s .3s;
             transition:         transform .4s, opacity .1s .3s;
     width: 100%;
+}
+
+@media screen and (min-width: 40em) {
+    .hentry--grid {
+        margin: 2% 0;
+        -webkit-box-flex: 0;
+        -webkit-flex: 0 0 48%;
+            -ms-flex: 0 0 48%;
+                flex: 0 0 48%;
+    }
 }
 
 .no-touch .hentry--grid:hover .hentry--summary {
@@ -478,7 +497,7 @@ a.linkedin .fa {
 }
 
 .cosmo .post-content a {
-    box-shadow: inset 0 -4px 0 #9b59b6;
+    box-shadow: inset 0 -4px 0 #9b59b6g;
 }
 
 .cosmo .post-content blockquote:first-child {

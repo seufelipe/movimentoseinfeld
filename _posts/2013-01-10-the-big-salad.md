@@ -2,7 +2,7 @@
 layout: post
 title: The Big Salad
 number: 602
-image: http://movimentoseinfeld.com.br/images/episodes/seinfeld-the-big-salad.jpg
+image: /images/episodes/seinfeld-the-big-salad.jpg
 description: Jerry descobre que está namorando uma moça que já foi dispensada pelo Newman. Kramer participa de uma perseguição igual a de OJ Simpson. George paga um almoço pra Elaine mas é a namorada dele quem recebe o agradecimento. 
 author: felipesantoro
 ---

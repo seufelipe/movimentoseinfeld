@@ -3,7 +3,7 @@ layout: post
 title: The outing
 number: 417
 author: robertoalmeida
-image: http://movimentoseinfeld.com.br/images/episodes/seinfeld-the-outing.jpg
+image: /images/episodes/seinfeld-the-outing.jpg
 ---
 
 > Eu assumi, e eu nem sou gay! / Agora todos vão achar que **nós** somos gays! / Não que tenha algo de errado quanto a isso…

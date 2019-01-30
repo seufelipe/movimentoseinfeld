@@ -2,7 +2,7 @@
 layout: post
 title: The busboy
 number: 212
-image: http://movimentoseinfeld.com.br/images/episodes/seinfeld-the-busboy.jpg
+image: /images/episodes/seinfeld-the-busboy.jpg
 description: George tenta se desculpar com um garçom demitido depois de um de seus comentários mas acaba piorando as coisas.
 author: gustavodealmeida
 ---

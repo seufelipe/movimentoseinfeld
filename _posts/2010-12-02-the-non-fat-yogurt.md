@@ -3,7 +3,7 @@ layout: post
 title: The non-fat yogurt
 number: 507
 author: carbonell
-image: http://movimentoseinfeld.com.br/images/episodes/seinfeld-the-non-fat-yogurt.jpg
+image: /images/episodes/seinfeld-the-non-fat-yogurt.jpg
 ---
 
 > Como pode isso não ter gordura? É muito bom!

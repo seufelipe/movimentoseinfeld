@@ -3,7 +3,7 @@ layout: post
 title: The library
 number: 305
 author: ronald
-image: http://movimentoseinfeld.com.br/images/episodes/seinfeld-the-library.jpg
+image: /images/episodes/seinfeld-the-library.jpg
 ---
 
 > 1971 foi meu primeiro ano no serviço. Ano ruim para as livrarias, ano ruim para a América. Hippies queimando carteirinhas de biblioeteca. Abby Hoffman mandando as pessoas roubarem livros. Eu não julgo um homem pelo tamanho do seu cabelo ou o tipo de música que ele ouve. Rock nunca foi o meu barato. Mas a partir do momento que ele pisa na Biblioteca Pública de Nova Iorque, ele se mete comigo, camarada.

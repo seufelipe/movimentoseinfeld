@@ -3,7 +3,7 @@ layout: post
 title: The good samaritan
 number: 320
 author: arnaldo
-image: http://movimentoseinfeld.com.br/images/episodes/seinfeld-the-good-samaritan.jpg
+image: /images/episodes/seinfeld-the-good-samaritan.jpg
 ---
 
 > Um caso, oh meu deus, isso é tão adulto!

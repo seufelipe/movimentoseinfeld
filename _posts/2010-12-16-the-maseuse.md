@@ -3,7 +3,7 @@ layout: post
 title: The masseuse
 number: 509
 author: pedroadams
-image: http://movimentoseinfeld.com.br/images/episodes/seinfeld-the-masseuse.jpg
+image: /images/episodes/seinfeld-the-masseuse.jpg
 ---
 
 > Quem você quer enganar? Vem ao meu apartamento com sua mesa e seus óleos e eu não devo esperar nada? Você é uma massagista sacana!

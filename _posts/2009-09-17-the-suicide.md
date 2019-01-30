@@ -3,7 +3,7 @@ layout: post
 title: The suicide
 number: 315
 author: erik
-image: http://movimentoseinfeld.com.br/images/episodes/seinfeld-the-suicide.jpg
+image: /images/episodes/seinfeld-the-suicide.jpg
 ---
 
 > Não entendo essa máquina de suicídio. Não há prédios altos onde essa gente mora? Não podem colocar um revólver na boca como pessoas normais?

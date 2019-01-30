@@ -3,7 +3,7 @@ layout: post
 title: The puffy shirt
 number: 502
 author: gustavoguimaraes
-image: http://movimentoseinfeld.com.br/images/episodes/seinfeld-the-puffy-shirt.jpg
+image: /images/episodes/seinfeld-the-puffy-shirt.jpg
 ---
 
 > Mas eu não quero ser um pirata!

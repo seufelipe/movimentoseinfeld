@@ -3,7 +3,7 @@ layout: post
 title: The junior mint
 number: 420
 author: carbonell
-image: http://movimentoseinfeld.com.br/images/episodes/seinfeld-the-junior-mint.jpg
+image: /images/episodes/seinfeld-the-junior-mint.jpg
 ---
 
 > Por que eu compro bananas? Elas só duram um dia...

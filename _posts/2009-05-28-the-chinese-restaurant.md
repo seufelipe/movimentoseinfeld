@@ -2,7 +2,7 @@
 layout: post
 title: The chinese restaurant
 number: 211
-image: http://movimentoseinfeld.com.br/images/episodes/seinfeld-the-chinese-restaurant.jpg
+image: /images/episodes/seinfeld-the-chinese-restaurant.jpg
 description: Jerry, Elaine e George passam o episódio inteiro tentando conseguir uma mesa em um restaurante chinês.
 author: leojaime
 ---

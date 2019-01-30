@@ -3,7 +3,7 @@ layout: post
 title: The smelly car
 number: 421
 author: mariannagomes
-image: http://movimentoseinfeld.com.br/images/episodes/seinfeld-the-smelly-car.jpg
+image: /images/episodes/seinfeld-the-smelly-car.jpg
 ---
 
 > Você está louco? Não tá entendo o que estou dizendo? Isso não é só um cheiro, você precisa de um padre pra se livrar dessa coisa!

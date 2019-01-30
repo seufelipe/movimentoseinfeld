@@ -27,7 +27,7 @@
         <meta property="og:title" content="{{ page.title }}" />
         <meta property="og:type" content="article" />
         <meta property="og:url" content="{{ site.baseurl }}{{ page.url }}" />
-        {% if page.image %}<meta property="og:image" content="{{ page.image }}">{% else %}<meta property="og:image" content="http://movimentoseinfeld.com.br/images/seinfeld.jpg" />{% endif %}
+        {% if page.image %}<meta property="og:image" content="{{ page.image }}">{% else %}<meta property="og:image" content="/images/seinfeld.jpg" />{% endif %}
         <meta property="og:site_name" content="{{ site.title }}" />
         <meta property="fb:app_id" content="230575027017873" />
         {% if page.description %}<meta property="og:description" content="{{ page.description }}">{% else %}<meta property="og:description" content="{{ site.description }}"/>{% endif %}
@@ -62,7 +62,6 @@
 
             <ul class="contact">
                 {% if site.contact.email %}<li><a href="mailto:{{ site.contact.email }}" class="email"><i class="fa  fa-envelope-o  fa-2x"></i></a></li>{% endif %}
-                {% if site.contact.facebook %}<li><a href="https://www.facebook.com/{{ site.contact.facebook }}" class="facebook"><i class="fa  fa-facebook  fa-2x"></i></a></li>{% endif %}
                 {% if site.contact.github %}<li><a href="https://github.com/{{ site.contact.github }}" class="github"><i class="fa  fa-github  fa-2x"></i></a></li>{% endif %}
                 <li><a href="{{ site.baseurl }}/feed.xml" class="rss"><i class="fa  fa-rss  fa-2x"></i></a></li>
             </ul>

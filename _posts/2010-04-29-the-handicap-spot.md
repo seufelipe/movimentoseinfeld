@@ -3,7 +3,7 @@ layout: post
 title: The handicap spot
 number: 422
 author: renata
-image: http://movimentoseinfeld.com.br/images/episodes/seinfeld-the-handicap-spot.jpg
+image: /images/episodes/seinfeld-the-handicap-spot.jpg
 ---
 
 > Deficientes não querem vagas especiais, eles querem ser tratados como nós. Por isso as vagas estão sempre vazias.

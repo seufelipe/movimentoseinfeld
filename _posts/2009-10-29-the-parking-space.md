@@ -3,7 +3,7 @@ layout: post
 title: The parking space
 number: 322
 author: danielpilon
-image: http://movimentoseinfeld.com.br/images/episodes/seinfeld-the-parking-space.jpg
+image: /images/episodes/seinfeld-the-parking-space.jpg
 ---
 
 > Você não entende. Um estacionamento, eu nem passo perto. É como uma prostituta. Por que eu tenho que pagar se, eu me esforçar um pouco, posso conseguir de graça?

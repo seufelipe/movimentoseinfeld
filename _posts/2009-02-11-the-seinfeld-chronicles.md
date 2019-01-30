@@ -2,7 +2,7 @@
 layout: post
 title: The Seinfeld chronicles
 number: 101
-image: http://movimentoseinfeld.com.br/images/episodes/seinfeld-the-seinfeld-chronicles.jpg
+image: /images/episodes/seinfeld-the-seinfeld-chronicles.jpg
 description: O primeiro episódio. Jerry conhece uma moça durante uma viagem.
 author: felipe
 ---

@@ -3,7 +3,7 @@ layout: post
 title: The bubble boy
 number: 407
 author: ibere
-image: http://movimentoseinfeld.com.br/images/episodes/seinfeld-the-bubble-boy.jpg
+image: /images/episodes/seinfeld-the-bubble-boy.jpg
 ---
 
 > Um juicer é uma das melhores maneiras... ele faz suco, extrai a polpa e também as vitaminas, para uma vida longa e cheia de vitalidade.

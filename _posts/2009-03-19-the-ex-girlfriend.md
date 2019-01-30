@@ -2,7 +2,7 @@
 layout: post
 title: The ex-girlfriend
 number: 201
-image: http://movimentoseinfeld.com.br/images/episodes/seinfeld-the-ex-girlfriend.jpg
+image: /images/episodes/seinfeld-the-ex-girlfriend.jpg
 description: Jerry começa a namorar uma ex-namorada do George.
 author: daniel
 ---

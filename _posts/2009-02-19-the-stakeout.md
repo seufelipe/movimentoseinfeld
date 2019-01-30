@@ -2,7 +2,7 @@
 layout: post
 title: The stakeout
 number: 102
-image: http://movimentoseinfeld.com.br/images/episodes/seinfeld-the-stakeout.jpg
+image: /images/episodes/seinfeld-the-stakeout.jpg
 description: Jerry arma uma tocaia pra encontrar uma moça que ele conheceu em uma festa. 
 author: ronald
 ---

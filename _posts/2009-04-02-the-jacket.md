@@ -2,7 +2,7 @@
 layout: post
 title: The jacket
 number: 203
-image: http://movimentoseinfeld.com.br/images/episodes/seinfeld-the-jacket.jpg
+image: /images/episodes/seinfeld-the-jacket.jpg
 description: Jerry usa uma jaqueta nova e muito cara em um jantar com o pai da Elaine.
 author: ulisses
 ---

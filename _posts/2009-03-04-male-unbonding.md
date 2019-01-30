@@ -2,7 +2,7 @@
 layout: post
 title: Male unbonding
 number: 104
-image: http://movimentoseinfeld.com.br/images/episodes/seinfeld-male-unbonding.jpg
+image: /images/episodes/seinfeld-male-unbonding.jpg
 description: Jerry não quer mais encontrar um amigo de infância, Joel Horneck, que insiste em manter contato com ele.
 author: chicobarney
 ---

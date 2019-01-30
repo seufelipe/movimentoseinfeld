@@ -2,7 +2,7 @@
 layout: post
 title: The baby shower
 number: 210
-image: http://movimentoseinfeld.com.br/images/episodes/seinfeld-the-baby-shower.jpg
+image: /images/episodes/seinfeld-the-baby-shower.jpg
 description: Jerry empresta o apartamento pra Elaine oferecer um chá-de-bebê e Kramer aproveita pra instalar uma TV a cabo ilegal.
 author: bzirpoli
 ---

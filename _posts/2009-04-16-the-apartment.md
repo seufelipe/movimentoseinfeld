@@ -2,7 +2,7 @@
 layout: post
 title: The apartment
 number: 205
-image: http://movimentoseinfeld.com.br/images/episodes/seinfeld-the-apartment.jpg
+image: /images/episodes/seinfeld-the-apartment.jpg
 description: Elaine quer se mudar pro prédio do Jerry e George começa a usar uma aliança na intenção de conseguir mulheres.
 author: moskito
 ---

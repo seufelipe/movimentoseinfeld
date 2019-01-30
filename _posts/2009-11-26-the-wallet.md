@@ -3,7 +3,7 @@ layout: post
 title: The wallet
 number: 405
 author: robertoalmeida
-image: http://movimentoseinfeld.com.br/images/episodes/seinfeld-the-wallet.jpg
+image: /images/episodes/seinfeld-the-wallet.jpg
 ---
 
 > Jerry, meu jovem amigo... você é ingênuo, você é tão ingênuo. Você sabe de algumas coisas. Sobre comédia, um pouco sobre relacionamentos, baseball... mas isto está tão fora da sua realidade que você está me envergonhando. Agora escute: estou negociando. É isso que se faz em negócios.

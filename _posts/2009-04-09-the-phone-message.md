@@ -2,7 +2,7 @@
 layout: post
 title: The phone message
 number: 204
-image: http://movimentoseinfeld.com.br/images/episodes/seinfeld-the-phone-message.jpg
+image: /images/episodes/seinfeld-the-phone-message.jpg
 description: George deixa várias mensagens mal educadas na secretária eletrônica da namorada e depois se arrepende e decide roubar a fita.
 author: chicobarney
 ---

@@ -3,7 +3,7 @@ layout: post
 title: The barber
 number: 508
 author: erik
-image: http://movimentoseinfeld.com.br/images/episodes/seinfeld-the-barber.jpg
+image: /images/episodes/seinfeld-the-barber.jpg
 ---
 
 > Gostaria de ter mãos de calçadeira.

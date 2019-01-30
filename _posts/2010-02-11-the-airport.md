@@ -3,7 +3,7 @@ layout: post
 title: The airport
 number: 412
 author: leoluz
-image: http://movimentoseinfeld.com.br/images/episodes/seinfeld-the-airport.jpg
+image: /images/episodes/seinfeld-the-airport.jpg
 ---
 
 > Eu nunca conheci um homem que soubesse tanto sobre nada.

@@ -3,7 +3,7 @@ layout: post
 title: The Marine Biologist
 number: 514
 author: daniel
-image: http://movimentoseinfeld.com.br/images/episodes/seinfeld-the-marine-biologist.jpg
+image: /images/episodes/seinfeld-the-marine-biologist.jpg
 ---
 
 > O mar estava revoltoso aquele dia, amigos – como um velho tentando devolver uma sopa na deli.

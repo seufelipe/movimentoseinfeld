@@ -3,7 +3,7 @@ layout: post
 title: The cigar store indian
 number: 510
 author: piangers
-image: http://movimentoseinfeld.com.br/images/episodes/seinfeld-the-cigar-store-indian.jpg
+image: /images/episodes/seinfeld-the-cigar-store-indian.jpg
 ---
 
 > George não trabalha. Ele é um mendigo.

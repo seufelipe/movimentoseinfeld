@@ -2,7 +2,7 @@
 layout: post
 title: The Hamptons
 number: 521
-image: http://movimentoseinfeld.com.br/images/episodes/seinfeld-the-hamptons.jpg
+image: /images/episodes/seinfeld-the-hamptons.jpg
 description: Jerry, George, Elaine e Kramer viajam para conhecer o bebê recém-nascido de uma amiga.
 author: mitsu
 ---

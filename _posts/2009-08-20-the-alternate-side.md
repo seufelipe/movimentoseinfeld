@@ -3,7 +3,7 @@ layout: post
 title: The alternate side
 number: 311
 author: cintia
-image: http://movimentoseinfeld.com.br/images/episodes/seinfeld-the-alternate-side.jpg
+image: /images/episodes/seinfeld-the-alternate-side.jpg
 ---
 
 > These pretzels are making me thirsty!

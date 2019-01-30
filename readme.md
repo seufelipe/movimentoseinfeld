@@ -1,6 +1,6 @@
 # Movimento Seinfeld
 
-Amigos escrevem textos sobre os episódios do seriado Seinfeld e eu publico um por semana no [site oficial do movimento](http://movimentoseinfeld.com.br). Estamos cobrindo a série toda, de [Chronicles](http://movimentoseinfeld.com.br/the-seinfeld-chronicles.html) ao *Finale*.
+Amigos escrevem textos sobre os episódios do seriado Seinfeld e eu publico um por semana no [site oficial do movimento](http://movimentoseinfeld.com.br). Estamos cobrindo a série toda, de [Chronicles](https://movimentoseinfeld.com.br/the-seinfeld-chronicles.html) ao *Finale*.
 
 
 O [Jekyll](https://github.com/mojombo/jekyll) transforma os arquivos Markdown em um site estático. Sem bancos de dados, sem cache, sem problemas.

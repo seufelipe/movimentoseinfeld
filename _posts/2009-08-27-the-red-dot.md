@@ -8,7 +8,7 @@ image: /images/episodes/seinfeld-the-red-dot.jpg
 
 > Você quer uma visão geral? Vejo um homem mesquinho segurando um casaco e tentando se dar bem.
 
-**The red dot** é, em geral, subestimado, e até o era por mim até pouco tempo atrás. Por achar que a série só engata a partir da 4ª temporada (mesmo tendo alguns memoráveis episódios iniciais, como <a href="http://movimentoseinfeld.com.br/the-chinese-restaurant.html">The chinese restaurant</a> e <a href="http://movimentoseinfeld.com.br/the-parking-garage.html">The parking garage</a>), acabo por negligenciar alguns episódios que cedo ou tarde me são lembrados.
+**The red dot** é, em geral, subestimado, e até o era por mim até pouco tempo atrás. Por achar que a série só engata a partir da 4ª temporada (mesmo tendo alguns memoráveis episódios iniciais, como <a href="https://movimentoseinfeld.com.br/the-chinese-restaurant.html">The chinese restaurant</a> e <a href="https://movimentoseinfeld.com.br/the-parking-garage.html">The parking garage</a>), acabo por negligenciar alguns episódios que cedo ou tarde me são lembrados.
 
 O episódio é um culto a George Costanza: começa com um George sortudo e termina com um George *loser*, bem como conhecemos. Tudo gira em torno de um ponto vermelho em um casaquinho de cashmere comprado por George para presentear Elaine por tê-lo indicado para um emprego na Pendant Publishing, onde a própria trabalha. Sim, George. Trabalhando. Em uma editora.
 

@@ -10,7 +10,7 @@ image: /images/episodes/seinfeld-the-library.jpg
 
 Rara oportunidade aonde o convidado é o personagem mais engraçado do episódio, **The Library** tem o <a title="Philip Baker Hall" href="http://www.imdb.com/name/nm0001311/">Philip Baker Hall</a> fazendo o Mr. Bookman, uma espécie de policial da Biblioteca de Nova Iorque que caça o Jerry Seinfeld por não ter entregue um livro que pegou emprestado há 20 anos. Rio muito quando ele despeja aquele monólogo no melhor estilo "bad cop" sobre Jerry, que jura que entregou o livro.
 
-Aliás, papo de polícia, de violência é com nosso amigo Larry Charles. O barbudão é roteirista de vários episódios da série, entre eles um dos meus favoritos: <a title="The baby shower" href="http://movimentoseinfeld.com.br/the-baby-shower.html">The Baby Shower</a>.
+Aliás, papo de polícia, de violência é com nosso amigo Larry Charles. O barbudão é roteirista de vários episódios da série, entre eles um dos meus favoritos: <a title="The baby shower" href="https://movimentoseinfeld.com.br/the-baby-shower.html">The Baby Shower</a>.
 
 Larry Charles sempre dá um jeito de colocar um pouco de tiros e sangue entre as risadas gravadas que entram na edição. É mestre.
 
